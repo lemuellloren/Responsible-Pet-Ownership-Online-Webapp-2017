@@ -1,0 +1,13 @@
+title: Forgot Password
+hide: true
+pages: false
+files: false
+options:
+  preview: false
+  url: false
+  status: false
+  template: false
+fields:
+  title:
+    label: Title
+    type:  text

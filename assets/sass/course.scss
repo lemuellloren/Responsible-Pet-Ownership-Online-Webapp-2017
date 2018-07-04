@@ -1,0 +1,388 @@
+@import 'base';
+// STYLES
+// HERO BANNER STYLES
+
+section#hero-banner-course {
+    // padding-bottom: 30px;
+    padding-top: 50px; 
+    @include width-640 {
+        padding-top: 48px;
+    }
+    .banner-logo {
+        @include width-480 {
+            text-align: left;
+        }
+        .penrithLogo {
+            padding-left: 25px;
+        }
+        @include width-640 {
+            padding-top: 50px;
+        }
+    }
+    .heroArticle {
+        h1 {
+            @include width-640 {
+                font-size: 24px;
+            }
+        }
+        padding: 30px;
+        @include width-640 {
+            padding: 30px 40px 20px 30px;
+        }
+    }
+    .banner-button {
+        text-align: center;
+        a {
+            display: inline-block;
+            width: auto;
+            margin-bottom: 10px;
+            &:hover {
+                color: $white;
+            }
+        }
+
+        button.mobilefixme {
+            @media (max-width: 374px) {
+                width: 100% !important;
+            }
+        }
+
+        #frmWidthraw #submitw {
+            @media (max-width: 374px) {
+                margin-bottom: 15px;
+                width: 100%;
+            }
+        }
+
+        button.taketest {
+            margin-bottom: 15px;
+            @media (max-width: 374px) {
+                width: 100%;
+            }
+        }
+    }
+    .checkbox-div {
+        input[type="checkbox"] {
+            @include checkbox();
+        }
+        label {
+            @include main-label();
+            @include width-768 {
+                width: 10%;
+                display: inline-block;
+            }
+        }
+        label:before {
+            @include before-label();
+        }
+        label:after {
+            @include after-label();
+        }
+        input:checked+label:after {
+            opacity: 1;
+        }
+    }
+    .progress-bar-course {
+        .progress {
+            height: 7px;
+            .progress-meter {
+                background: $mainColor;
+            }
+        }
+        p.progress-count {
+            text-align: right;
+            font-size: 12px;
+            margin: 0;
+        }
+    }
+    .left-banner-course,
+    .right-banner-course {
+        padding: 0;
+    }
+    .right-banner-course {
+        height: auto;
+        position: relative;
+        background-repeat: no-repeat !important;
+        background-position: center !important;
+        background-size: cover !important;
+    }
+
+}
+// END OF HERO BANNER STYLES
+// MODULES STYLES
+section.modules {
+    position: relative;
+    margin-top: -16px;
+}
+.modules {
+    .accordion{
+        margin: 0;
+    }
+    .accordion-item{
+        &:first-child{
+            .accordion-title {
+                border-top: 2px solid $gray;
+            }
+        }
+        &:last-child{
+            .accordion-title {
+                border-bottom: 2px solid $gray;
+            }
+        }
+    }
+    .accordion-title {
+        background: $warmYellow;
+        padding: 1rem 1rem;
+        height: auto;
+        border-top: 1px solid $gray;
+        border-bottom: 1px solid $gray;
+        h3 {
+            // line-height: 0.9;
+            color: $white;
+            margin: 0;
+        }
+        &:hover {
+            background: $warmYellow;
+        }
+        &::before {
+            margin-top: -0.7rem;
+            font-size: 20px;
+            color: $white;
+        }
+    }
+    .accordion-title--disabled::before{
+        content: '';
+    }
+    p {
+        margin: 0;
+        span {
+            font-size: 10px;
+        }
+    }
+    ol, ul {
+        li {
+            font-size: 14px;
+            color: $SecColor;
+            margin-top: -15px;
+        }
+    }
+    a {
+        font-size: 14px;
+        display: block;
+    }
+    .accordion-content {
+        border: 0 !important;
+        width: 95%;
+        margin: 0 auto;
+        @include width-768 {
+            width: 80%;
+        }
+        img {
+            //width: 100%;
+            margin-bottom: 0px;
+            margin-top: 15px;
+        }
+        a {
+            width: auto;
+            word-break: break-all;
+            display: inline-block; // &:hover{
+                //     color: $mainColor;
+                // }
+            }
+            .form-checkbox {
+                margin-top: 20px;
+                input[type="checkbox"] {
+                    @include checkbox();
+                }
+                label {
+                    @include main-label();
+                }
+                label:before {
+                    @include before-label();
+                }
+                label:after {
+                    @include after-label();
+                }
+                input:checked+label:after {
+                    opacity: 1;
+                }
+            }
+            @media screen and (max-width: 768px) {
+             iframe {
+                 width: 100%;
+             }
+         }
+     }
+ }
+
+ // warning message for take test
+ #warning-message {
+    height: 300px;
+    vertical-align: middle;
+    padding: 100px 50px;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'GothamRoundedBold';
+    color: #F26522;
+}
+
+.progress-count {
+    text-align: right;
+    margin: 0;
+    font-size: 12px;
+    font-family: 'GothamRoundedBold';
+}
+
+.progress {
+    overflow: hidden;
+    height: 7px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+}
+.progress-bar-success {
+    background-color: #5cb85c;
+}
+.progress-bar {
+    float: left;
+    width: 0;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #F26522;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    -webkit-transition: width .6s ease;
+    transition: width .6s ease;
+}
+
+/* The container */
+.checkboxContainer {
+    display: inline-block;
+    padding-right: 20px;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media screen and (max-width: 39.9375em) {
+    .checkboxContainer {
+        display: block;
+    }
+    #c_show_user_pet {
+        padding-left: 1px !important;
+    }
+}
+@media print, screen and (min-width: 40em) {
+ #c_show_user_pet {
+    padding-left: 1px;
+}
+}
+
+.checkboxContainer p {
+
+}
+
+/* Hide the browser's default checkbox */
+.checkboxContainer input {
+    position: absolute;
+    opacity: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #fff;
+    border: 1px solid #e98300;
+}
+
+/* On mouse-over, add a grey background color */
+.checkboxContainer:hover input ~ .checkmark {
+    background-color: transparent;
+}
+
+/* When the checkbox is checked, add a blue background */
+.checkboxContainer input:checked ~ .checkmark {
+    background-color: #fff;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none
+}
+
+/* Show the checkmark when checked */
+.checkboxContainer input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.checkboxContainer .checkmark:after {
+    left: 7px;
+    top: 0px;
+    width: 10px;
+    height: 17px;
+    border: solid #e98300;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+#c_penrithlogo {
+    vertical-align: top;
+    margin-top: 50px
+}
+#c_title_desc_large {
+    display: inline-block;
+    width: 70%;
+    margin: 50px;
+    text-align: left;
+    @include width-1024 {
+        width: 65%;
+    }
+}
+
+#c_prgressbar_large {
+    width: 90%;
+    text-align:
+    center;
+    padding-left: 176px;
+}
+#c_prgressbar_small {
+    width: 100%;
+    text-align:
+    center;
+    margin-bottom: 30px
+}
+#c_progress_count {
+    text-align: right;
+    margin-bottom: 0px;
+}
+#c_show_user_pet {
+    text-align: left;
+    padding-left: 147px;
+    padding-top: 40px
+}
+#c_labelcheckBoxcontainer {
+    display: inline-block;
+    padding-right: 20px
+}
+
+
+// END OF MODULES STYLES

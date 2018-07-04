@@ -1,0 +1,48 @@
+Tab1: 
+
+----
+
+Seo: 
+
+-
+  seo-title: "Responsible Pet Ownership | Barking Dogs"
+  seo-description: "Why do dogs bark? When does 'normal' barking become 'nuisance' barking - and what can you do to make your dog happier, and less inclined to bark? Enrol now! "
+
+----
+
+Mainimage: little_fluffy_dog.jpg
+
+----
+
+Keywords: barking dog,nuisance dog,nuisance barking,reduce barking,help barking
+
+----
+
+Tab2: 
+
+----
+
+Title: Barking Dogs
+
+----
+
+Is-a-feature-course: 1
+
+----
+
+Course-description: 
+
+Why do dogs bark? When does 'normal' barking become 'nuisance' barking? Learn how to make your dog happier, and reduce its barking in this free and fun course.
+
+Please read through the material below and then take the test.
+
+----
+
+Module-items: 
+
+- 
+  modules_select: "35"
+- 
+  modules_select: "36"
+- 
+  modules_select: "37"

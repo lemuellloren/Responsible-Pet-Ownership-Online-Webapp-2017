@@ -1,0 +1,116 @@
+Title: Why Dogs Bark
+
+----
+
+Text: 
+
+## Why Do Dogs Bark?
+Barking is a natural way dogs vocalise to communicate their feelings. Barking may signal a warning, danger, play, excitement, panic, fear etc. It is normal for all dogs to bark and responsible dog owners need to ensure barking is kept to a minimum and the dog is barking only at appropriate times.
+
+## Causes of Problems for Barking Dogs
+ - Boredom / Lonely Dog –Dogs left on their own for extended periods of time. 
+ - Kept on a chain or in a place too small for the dog's needs – confinement to a small space can increase anxiety, causing the dog to bark more often
+ - Unsuitable environment for the breed –  Lack of environmental enrichment toys, sand pit, bones to chew, games  or an active breed of dog in a small yard 
+ - Lack of exercise – Not taken on regular walks or doggie activities such as obedience, agility or flyball, etc.  
+ - Provoked deliberately or unintentionally by people or roaming dogs – Passers-by, people and  dogs walking past gates and fence lines
+ - Separation Anxiety –  dogs may suffer terrible anxiety and distress when their owner is not home 
+ - Untrained –  Little or no behaviour modification training invested into the dog 
+ - Sick - The dog could be ill.  This may be a result of blindness, hearing loss, kennel cough etc.
+ - Hungry/ Thirsty – A dog may bark to alert the owner of their basic needs (i.e food/water).  
+ - Victims of abuse – Abused/Neglected ill-treated dogs - If you suspect an animal is being abused contact the (link: https://www.rspcansw.org.au/ text: RSPCA popup: yes) or (link: http://www.awlnsw.com.au text: Animal Welfare League popup: yes) Inspectors.
+
+(image: alicias-dog.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: Barking is...
+  choice_1: >
+    not a natural way for dogs to vocalise
+    their feelings.
+  choice_2: >
+    always a sign of trauma, illness or
+    distress.
+  choice_3: >
+    something that dog owners need to ensure
+    is kept to a minimum and only happens at
+    appropriate times.
+  choice_4: all of the above
+  answer: "3"
+- 
+  question: Dogs can start barking when...
+  choice_1: "they're bored, lonely, and lack stimulation."
+  choice_2: they are eating.
+  choice_3: they cuddle their owners.
+  choice_4: all of the above
+  answer: "1"
+- 
+  question: >
+    A barking dog may be trying to alert its
+    owner that it is...
+  choice_1: ill.
+  choice_2: hungry.
+  choice_3: thirsty.
+  choice_4: all of the above.
+  answer: "4"
+- 
+  question: >
+    Dogs that are taken on regular walks,
+    games and exercises...
+  choice_1: "tend to bark more than dogs that don't exercise regularly."
+  choice_2: "tend to bark less than dogs that don't exercise regularly."
+  choice_3: "bark just as much as dogs that don't exercise."
+  choice_4: >
+    are healthier, more energetic, tend to
+    have a stronger bark and bark more.
+  answer: "2"
+- 
+  question: >
+    A yard with plenty of play space for the
+    dog to run free and play, and lots of
+    stimulating toys...
+  choice_1: "is expensive, and has no impact on the dog's well-being."
+  choice_2: >
+    will make the dog happier, but has no
+    impact on the amount of barking the dog
+    does.
+  choice_3: >
+    will increase the amount of barking the
+    dog is likely to do.
+  choice_4: >
+    will reduce the amount of barking the
+    dog is likely to do.
+  answer: "4"
+- 
+  question: >
+    Keeping a dog chained in a small,
+    restricted space...
+  choice_1: >
+    is likely to make the dog feel safe, and
+    decrease barking.
+  choice_2: >
+    is likely to make the dog feel unhappy
+    and increase barking.
+  choice_3: >
+    is likely to have no impact on the
+    amount of barking a dog does.
+  choice_4: >
+    is a practice that can be used to train
+    dogs to bark less, if used correctly.
+  answer: "2"
+- 
+  question: Dogs can bark when...
+  choice_1: "their owners leave the house, and they feel 'separation anxiety'."
+  choice_2: >
+    they see passers-by, such as people,
+    cats or other dogs, close to their
+    property line.
+  choice_3: "they haven't been properly trained."
+  choice_4: all of the above.
+  answer: "4"

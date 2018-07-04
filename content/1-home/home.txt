@@ -1,0 +1,173 @@
+Title: Home
+
+----
+
+Description: Known as the adventure capital of NSW, Penrith features a stellar line up of fun things to do and events to experience for your next weekend adventure you're sure not to forget.
+
+----
+
+Keywords: animal courses,dog courses,cat courses,dog owner,cat owner,barking dog,roaming cats,desexing animals,registration of animals
+
+----
+
+Mainimage: winston-the-rabbit.jpg
+
+----
+
+Header-text: RESPONSIBLE PET OWNER ONLINE
+
+----
+
+Sub-text: an eLearning site supported by the Office of Local Government Grants Programme
+
+----
+
+Btntxt-viewcourse: View Courses
+
+----
+
+Btntxt-enroll: Enrol Now
+
+----
+
+Seo: 
+
+-
+  seo-title: "Penrith Council | Responsible Pet Owner"
+  seo-description: "an eLearning site supported by the Office of Local Government Grants program. Free fun courses about animals for all pet owner and animal lovers."
+
+----
+
+Promo-title: Check out our promo
+
+----
+
+Promo-items: 
+
+- 
+  promo_title: Free Microchipping Day!
+  promo_inset: FREE
+  promo_description: |
+    **Saturday 3 March 2017** Jamison Park Penrith
+    9am-12pm
+    
+    Come along to get your free pet microchip. Council Officers will be available to answer your questions, as well as a range of pet experts and services
+    
+    Please ensure all dogs are on a lead and that cats are in a cat carrier
+    
+    no appointment necessary
+  promo_image: little_kitten.jpg
+  btntxt_learnmore: ""
+  btntxt_learnmore_url: ""
+  btntxt_download: ""
+  downloadable_file: ""
+- 
+  promo_title: Meet Council Animal Services Members
+  promo_inset: Free
+  promo_description: |
+    **Pet ownership info stall - Council event**
+    Sat 3 Feb, 9am - 4.30pm, St Clair Shopping Centre, 155 Bennett Road, St Clair
+    Our friendly Animal Services team will be on hand to answer all of your responsible pet ownership questions and enquiries. Pop on down and meet the team and learn more about how you can best look after your pets. Don't forget to grab your dog a free tag , doggy drink bottle and ask us about our free microchipping days.
+  promo_image: >
+    12167587_945296078871635_1079014559_n.jpg
+  btntxt_learnmore: Learn more
+  btntxt_learnmore_url: http://example.com
+  btntxt_download: Download
+  downloadable_file: winston-the-rabbit.jpg
+- 
+  promo_title: 'Penrith Festival  2018 - Pet ownership info stall - Council event'
+  promo_inset: Free
+  promo_description: |
+    Sat 17th of March 2018  9am - 5pm, High Street Penrith
+    
+    Our friendly Animal Services team will be on hand to answer all of your responsible pet ownership questions and enquiries. Pop on down and meet the team and learn more about how you can best look after your pets. Don't forget to grab your free doggy drink bottle, ask us about our free micro chipping days and meet our very own canine pals
+  promo_image: >
+    18835060_1552170264801417_1353364409_n.jpg
+  btntxt_learnmore: ""
+  btntxt_learnmore_url: ""
+  btntxt_download: ""
+  downloadable_file: ""
+
+----
+
+Testimonial-title: Testimonials
+
+----
+
+Testimonial-items: 
+
+- 
+  author_name: Tina Moran
+  short_address: Penrith, AU
+  author_image: team-1.jpg
+  testimonial: >
+    We made Foundation easy to get started
+    making amazing Sites and Apps. We put
+    together these guides to help you get up
+    and running.
+- 
+  author_name: John Smith
+  short_address: Penrith, Au
+  author_image: team-2.jpg
+  testimonial: >
+    Sed posuere consectetur est at lobortis.
+    Etiam porta sem malesuada magna mollis
+    euismod. Lorem ipsum dolor sit amet,
+    consectetur adipiscing
+
+----
+
+Partners-title: Partners and supporters
+
+----
+
+Partner-items: 
+
+- 
+  partner_name: Kirby
+  partner_link: ""
+  partner_image: partner1.png
+- 
+  partner_name: Yahoo
+  partner_link: http://yahoo.com
+  partner_image: partner2.png
+- 
+  partner_name: News Portal
+  partner_link: http://newsportal.ph
+  partner_image: partner3.png
+- 
+  partner_name: Leet Digital
+  partner_link: http://google.com
+  partner_image: partner4.png
+
+----
+
+Course-title-home: Courses
+
+----
+
+Course-title-course: Featured courses
+
+----
+
+Course-title-listing: Other courses
+
+----
+
+Viewcourse-button-text: View Course
+
+----
+
+Enrollnow-button-text: Enrol Now
+
+----
+
+Contact-title: Contact
+
+----
+
+Cta-text: Questions? let us know
+
+----
+
+Cta-button-text: Contact us

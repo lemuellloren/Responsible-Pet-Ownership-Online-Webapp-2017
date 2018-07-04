@@ -1,0 +1,52 @@
+Tab1: 
+
+----
+
+Seo: 
+
+-
+  seo-title: ""
+  seo-description: "Owning a dog is one of the most rewarding aspects of life. These courses offer the new dog owner and the expeienced owner a chance to learn about our canine friends "
+
+----
+
+Mainimage: image4.jpg
+
+----
+
+Keywords: dog owner,dog ownership,responsible dog,desexing dog,barking dog,aggressive dog,puppies behaviour
+
+----
+
+Tab2: 
+
+----
+
+Title: Responsible Dog Ownership
+
+----
+
+Course-description: 
+
+Whether you are an experienced or new dog owner, these courses will assist with understanding dog behaviour, the reason your dog barks or bites and the legalities of owning a dog
+
+Please read through the material below and then take the test.
+
+----
+
+Module-items: 
+
+- 
+  modules_select: "23"
+- 
+  modules_select: "30"
+- 
+  modules_select: "31"
+- 
+  modules_select: "32"
+- 
+  modules_select: "34"
+
+----
+
+Is-a-feature-course: 0

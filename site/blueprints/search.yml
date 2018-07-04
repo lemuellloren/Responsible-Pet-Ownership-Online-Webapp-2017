@@ -1,0 +1,53 @@
+title: Search
+icon: search
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: false
+
+fields:
+  # PAGE METADATA TAB
+  # =================================================
+  tab1:
+    label: Page Metadata
+    type: tabs
+  seo:
+    type: seo      
+    help: >
+      Click the title to change the page title. Click the description to change the page description.
+  
+  # SEARCH PAGE SETTINGS TAB
+  # =================================================
+  tab2:
+    label: Search Page Settings
+    type: tabs
+  search_result_title:
+    label: Search Results Title
+    type: text
+    placeholder: Search Results
+    required: true
+  no_result: 
+    label: 'No Results' Text
+    type: text
+    placeholder: No result found.
+    required: true
+    help: >
+      Text to display if no results are found.
+  search_result_query: 
+    label: 'One Result' Text
+    type: text
+    placeholder: result found.
+    required: true
+    help: >
+      Text to display if only 1 result is found.
+  many_result: 
+    label: 'Multiple Results' Text
+    type: text
+    placeholder: results found.
+    required: true
+    help: >
+      Text to display if multiple results are found.

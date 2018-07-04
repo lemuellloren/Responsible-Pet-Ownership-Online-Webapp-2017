@@ -1,0 +1,271 @@
+Title: Help
+
+----
+
+Mainimage: pets8.jpg
+
+----
+
+Help-text: 
+
+You can edit and format the content on your website using a popular, rich and easy-to-learn markup language called **Markdown**. The Markdown way of authoring text is extremely popular with content writers, and there are many Markdown tutorials on the internet that can teach you how to use the standard Markdown tags to structure and format your text. 
+
+Apart from the usual Markdown tags, however, your site also understands several special tags of its own, called **Kirbytags**. This primer has been setup here for you, as a quick reference guide, to help you learn and remember the tags, and get going with your writing!
+
+## Basic Character Formatting
+
+Italicised text - *like this* - can be done by encasing the text in `*` (single asterix) or `_` (single underscore).
+
+Bold text - like **this** - can be done by encasing the text in `**` (double asterixes) or `__` (double underscore).
+
+You can also have `inline code text`, which can be useful for highlighting something literal, such as instructions that a user must type. You create inline code text by encasing it in backticks: <code>`</code>.
+
+## Paragraph & Block Formatting
+
+### Paragraphs
+A block of text is a paragraph only if it has at least one empty line both before and after it.  In this example, both lines are rendered as being in the same paragraph:
+
+```
+This is the first line.
+This is the second line.
+```
+
+If we want each line to be in in a paragraph by themselves, we must leave an empty line between them:
+
+```
+This is the first paragraph.
+
+This is the second paragraph.
+```
+
+### Headings
+You can create headings and sub-headings by starting a paragraph with a `#` character, like this:
+
+```
+# Level 1 Heading
+
+## Level 2 Sub-Heading
+
+### Level 3 Sub-Heading
+```
+
+### Lists
+You can create lists of items like this:
+
+- Make sure each item is listed in a paragraph by itself, and that there is an empty line before the first item in your list, and after the last.
+- Start the item paragraph with a `-` (hyphen) or `*` - for bulleted lists. Start the paragraph with `1.` for a numbered list.
+- You can have lists inside lists - use 2 spaces as indentation.
+
+Examples:
+
+```
+* buy coffee
+* take paper to office
+* pickup samples
+
+1. put cereal into bowl
+2. add milk
+3. eat
+
+- list item 1
+- list item 2
+  1. sub-list item 1
+  2. sub-list item 2
+  3. sub-list item 3
+- list item 3
+```
+
+### Quotes
+You can create a quotation paragraph by preceding it with a `>`. For instance, the following entry...:
+
+``` 
+> "And the day came when the risk to remain tight in a bud 
+> was more painful than the risk it took to blossom."
+> Anaïs Nin
+```
+... will give us this:
+
+> "And the day came when the risk to remain tight in a bud 
+> was more painful than the risk it took to blossom."
+> Anaïs Nin
+
+### Code Blocks
+To create an entire section of text as 'inline code' - such as the ones used throughout this article to show you the Markdown text  - use three backticks on a line by themselves both at the beginning and at the end of the block, like this:
+
+    ```
+    code text goes here
+    and it can go for several lines
+    just make sure you finish it with three backticks
+    ```
+
+### Horizontal Divider Line
+You can create a horizontal divider line, if needed, by placing four (or more) asterixes on a paragraph by themselves. This...
+
+```
+****
+```
+...will create this:
+ ****
+## Links
+There are many different types of links that you can create easily in your text.
+
+### Link to Site Page
+You can create a simple link to another page in your site by using its **relative address** - that is, the address of the page in your site, without the host name. 
+For instance, let's suppose that you normally have a page that is reachable at `http://www.mysite.com/blog/my-article`. You can quickly create a link to it like this:
+
+```
+\(link: blog/my-article\)
+```
+
+By default, the text of the link will be the link's address. You can change it to anything you wish by using a `text:` option, like this:
+
+```
+\(link: blog/my-article text: My Fantastic Article!\)
+```
+
+You can also add a tooltip to your link by using a `title:` option:
+
+```
+\(link: blog/my-article title: go to article\)
+```
+
+You can even make the link open in a new window with a `popup:` option, like this:
+
+```
+\(link: blog/my-article popup: yes\)
+```
+
+And you can combine all these options, as you see fit:
+
+```
+\(link: blog/my-article text: My Fantastic Article! title: go to article popup: yes\)
+```
+
+### Link to Another Site
+You can link to another site simply by using a *complete url* as the link - and you have all the same options as described above for internal links:
+
+```
+\(link: http://www.somesite.com text: another website\)
+```
+
+There is also an alternative way of doing links, using the following syntax:
+
+```
+[another website](http://www.somesite.com)
+```
+
+This syntax can be specially useful if you're using the same link repeatedly, on several different places. Rather than retyping the entire link tag, over and over, try doing this:
+
+1. everywhere in your document you want the link to appear, use a unique **link id**, enclosed in square brackets, instead of the url - like this:
+`[link text][1]` or `[link text][abc]`. You can repeat this link id throughout your text as many times as you'd like - ie., later on you could use `[another link][abc]`, and `[yet another link][abc]`, and they will all point to the same address.
+2. at the very **end of your text**, specify the url for that link id on a line by itself, like this:
+`[1]: http://www.somesite.com` or `[abc]: http://www.somesite.com`
+
+### Link to Email Address
+You can add a link to an email address like this:
+
+```
+\(email: john@example.com\)
+```
+
+Email addresses entered like this are **automatically obfuscated**, making it hard for spammers to harvest the address and include it in spam lists.
+
+By default, the text of the link is the email address itself. You can change that with the `text:` option. You can also optionally enter a tooltip for the link, with the `title:` option:
+
+```
+\(email: john@example.com text: email me\)
+```
+
+### Link to Downloadable FIles
+You can also create links to files that you've uploaded to your site - such as pdf files or office documents. Clicking on the link will make the user's browser start downloading the file. To create this kind of link, once you've uploaded the file, use:
+
+```
+\(file: brochure.pdf\)
+```
+
+As usual, you can change the link text by using the `text:` option, like so:
+
+```
+\(file: brochure.pdf text: full product brochure\)
+```
+
+### Link to Phone Numbers
+Instead of just typing a phone number normally, you can use a phone link. These links will be hyperlinked in devices like smart phones and tablets, so that if the user clicks them, it will automatically launch the user's dialling application, with the phone number entered in. To create such a link, type:
+
+```
+\(tel: +61299998888\)
+```
+
+You should enter the complete phone number as you'd dial it in your phone, internationally - using a `+` sign before the international country prefix. Do not use spaces, hyphens or brackets. 
+
+If you want to display a nicely formatted number as the link text, use the `text:` option, as usual:
+
+```
+\(tel: +61299998888 text: +61 \\(2\\) 9999 8888\)
+```
+
+Note that if you use parentheses *inside* your tag, they will affect the tag, and won't display properly on your page. If you want to use parentheses, you must escape them with a backslash, as show in the example above: `\\(` and `\\)`.
+
+## Adding Images & Videos
+You easily can include rich media content, such as images and videos, into your text using simple tags - and they will be automatically displayed for you.
+
+### Images
+To add an image that you've previously uploaded to your page into your text, use the *image* tag:
+
+```
+\(image: sprocket.jpg\)
+```
+
+You can also add a caption to your image, using the `caption:` option:
+
+```
+\(image: sprocket.jpg caption: the beauty of sprockets\)
+```
+
+You can also turn an image into a link, using the `link:` option:
+
+```
+\(image: sprocket.jpg link: http://www.example.com/products/sprocket\)
+```
+
+You can also embed images from other sites, simply by using a full url in the image tag, instead of a file name:
+
+```
+\(image: http://www.example.com/images/sprocket.jpg\)
+```
+
+Note, however, that embedding images from external sources is always a risk: the image may not always be available, and it may contain a virus, which you are inadvertently sending to your visitors.
+
+### YouTube & Vimeo Videos
+Add Youtube and Vimeo videos to any page without the hassle of fiddling with those scary embed codes. All you need is the URL of the video, and the right tag. To add a YouTube video:
+
+```
+\(youtube: http://www.youtube.com/watch?v=QZv70PG9eXM\)
+```
+
+To add a Vimeo video:
+
+```
+\(vimeo: http://vimeo.com/3432886\)
+```
+
+You can also set a specific size for the embedded video, like this:
+
+```
+\(vimeo: http://vimeo.com/3432886 width: 400 height: 300\)
+```
+
+## But Wait... There's More!
+Hopefully, the tags above will be sufficient to get you writing your content quickly and easily. These tags cover the needs of almost all content authors. There are, however, special cases - and for those there are many more tags that can be 'turned on', if needed. There are tags for embedding sound content, or GitHub gists, and many other types of complex information. If you have a special need, don't hesitate to (email: support@macservery.com text: contact us)!
+
+----
+
+Seo: 
+
+-
+  seo-title: "Help Page"
+  seo-description: "You can edit and format the content on your website using a popular"
+
+----
+
+Keywords: help,faq,help page

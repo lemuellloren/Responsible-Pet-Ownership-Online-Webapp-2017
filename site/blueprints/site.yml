@@ -1,0 +1,486 @@
+title: Site
+pages: true
+  add: false
+files: true
+fields: 
+
+  # GENERAL TAB
+  # =================================================
+  tab1: 
+    label: General
+    type: tabs
+  title: 
+    label: Site Title
+    type: title
+  logo_settings:
+    label: Site Logo
+    type: headline
+  website_logo:
+    label: Heading Logo
+    type: image
+    help: >
+      Ideal logo size is 130(w)x190(h) pixels. Ideal format is SVG. Larger images may cause layout issues.
+  footer_logo:
+    label: Footer Logo
+    type: image
+    help: >
+      Ideal logo size is 200(w)x104(h) pixels. Ideal format is SVG. Larger images may cause layout issues.
+
+  ### Database settings
+  database_settings:
+    label: Database Settings
+    type: headline
+  dbhost: 
+    label: Database Host
+    type: text
+    help: >
+      Server where your database is located.
+    placeholder: localhost
+    required: true
+  dbusername: 
+    label: Username 
+    type: text
+    help: >
+      Username required for accessing the database.
+    placeholder: user
+    required: true
+  dbpassword: 
+    label: Password
+    type: password
+    help: >
+      Enter database password required for accessing the database.
+  dbname:
+    label: Database Name
+    type: text
+    help: >
+      The name of the database you want to access.
+    required: true 
+  ### Analytics
+  analytics_heading:
+      label: Analytics Code
+      type: headline
+  analytics:
+      label: Analytics Code Snippet
+      type: textarea
+      buttons: false
+      help: >
+        Paste here the code snippet from your site analytics provider - such as Google Analytics -
+        used to track your site's visitors statistics. This code will be automatically added
+        to the '&lt;head&gt;' section of every page in your site.
+  
+  # PARTNERS TAB
+  # =================================================
+  tab6:
+    label: Partners 
+    type: tabs
+  show_partners:
+    label:  
+    type: checkbox
+    text: show Partners section
+    default: true
+  partners_title:
+    label: Parther Section Title 
+    type: text
+    required: true
+    placeholder: Partners
+  partner_items: 
+    type: structure
+    modalsize: large
+    style: table
+    fields: 
+      partner_name: 
+        label: Partner Name
+        type: text
+        required: true
+      partner_link:
+        label: Partner URL
+        type: text
+        placeholder: http://example.com
+      partner_image: 
+        label: Partner logo
+        type: image
+        required: true
+        help: >
+          Image should be 200x200 pixels. You can upload larger pictures, but they will be 
+          automatically resized down, as needed.
+
+  # TESTIMONIALS TAB
+  # =================================================
+  tab4:
+    label: Testimonials 
+    type: tabs
+  show_testimonials:
+    label:  
+    type: checkbox
+    text: show Testimonials section
+    default: true
+  testimonial_title:
+    label: Testimonials Section Title
+    type: text
+    required: true 
+    placeholder: Testimonials
+  testimonial_items:
+    type: structure 
+    entry: >
+      {{author_name}} <br/> {{short_address}}
+    modalsize: large
+    fields: 
+      author_name:
+        label: Author's Name
+        type: text
+        placeholder: John Smith
+        required: true
+      short_address:
+        label: Author's Location
+        type: text
+        placeholder: Penrith, NSW
+        required: true
+        help: >
+          Please enter suburb or town and state. 
+      author_image:
+        label: Author's Image
+        type: image
+        required: true
+        help: >
+            Ideal image size is 640(w)x480(h) pixels - larger images will be resized and cropped automatically.
+      testimonial: 
+        label: Testimonial
+        type: textarea
+        buttons: false
+        required: true
+        validate:
+          maxLength: 140
+        help: >
+          Testimonials must be short. Limit it to 140 characters.
+
+  # CONTACT TAB
+  # =================================================
+  tab5:
+    label: Contact
+    type: tabs
+  contact_settings_headline:
+    label: Contact Form Settings 
+    type: headline
+
+  ###email
+  success_msg:
+    label: Success Message
+    type:  text
+    required: true
+    placeholder: Your message has been sent successfully - thank you!
+  email_items:
+    type: structure
+    modalsize: large
+    style: table
+    fields:
+      subject: 
+        label: Message Subject
+        type: text
+        required: true
+        placeholder: Course Questions
+      reciever_email: 
+        label: Designated Email
+        type: email
+        required: true
+        placeholder: email@email.com
+        help: >
+          Email that will receive messages for the selected subject.
+  
+  contacts_line: 
+    label: Contact modal
+    type: headline
+  contact_modal_text: 
+    label: Contact Modal Heading
+    type: text
+    placeholder: Contact
+    required: true
+
+  contact_modalhead_text: 
+    type: text
+    label: Body Text
+    placeholder: Your questions, suggestions and feedback are always welcome!
+
+  contact_modalbtn_reset:
+    type: text
+    label: 'Reset' Button Text
+    width: 1/2 
+    placeholder: Reset
+    required: true 
+
+  contact_modalbtn_send: 
+    type: text
+    label: 'Send' Button Text
+    width: 1/2
+    placeholder: Send
+    required: true
+    
+  contact_privacy_text:
+    type: text
+    label: Contact Privacy Text
+    placeholder: >
+      We respect your privacy and use your information as per our Privacy Policy.
+    
+  ###contact placeholder
+  contact_settings_placeholder:
+    label: Contact Form Placeholders
+    type: headline
+
+  name_placeholder:
+    label: Name Placeholder
+    type: text
+    width: 1/2
+    placeholder: Your Name
+    
+  email_placeholder:
+    label: Email Placeholder
+    type: text
+    width: 1/2
+    placeholder: Your Email
+    
+  phone_placeholder:
+    label: Phone Placeholder
+    type: text
+    width: 1/2
+    placeholder: Your Phone
+    
+  subject_placeholder:
+    label: Subject Instructions
+    type: text
+    width: 1/2
+    placeholder: Select Subject
+    
+  message_placeholder:
+    label: Message Placeholder
+    type: text
+    width: 1/2
+    placeholder: Your Message
+
+  contact_headline: 
+    label: Contact Section Settings
+    type: headline
+  contact_title: 
+    label: Contact Section Title
+    type: text
+    required: true
+    placeholder: Contact
+  cta_text:  
+    label: Call-to-Action Text
+    type: textarea
+    buttons: false
+    placeholder: Questions? Suggestions? Feedback? Let us know!
+  cta_button_text:
+    label: Call-to-action Button Text
+    type: text
+    placeholder: Contact Us
+    help: >
+      Leave empty to hide button from the page. 
+    width: 1/2
+
+  # SOCIAL MEDIA TAB
+  # ================================================= 
+  tab8:
+    label: Social Media 
+    type: tabs
+  share_headline:
+    label: 'Share' Buttons
+    type: headline
+  share_info:
+    label: 
+    type: info
+    text: >
+        Ticking these checkboxes will add a 'Share' button to the site's navigation and footer section,
+        allowing the visitor to share the current page on different social media sites.
+
+  share_text:
+    label: Share Link Text
+    type: text
+    placeholder: Share us on
+    required: true
+
+  share_facebook:
+    label: 
+    type: checkbox
+    text: show Facebook Share button
+    width: 1/2
+    icon: facebook
+  share_linkedin:
+    label: 
+    type: checkbox
+    text: show LinkedIn Share button
+    width: 1/2
+    icon: linkedin
+  share_twitter:
+    label: 
+    type: checkbox
+    text: show Twitter Share button
+    width: 1/2
+    icon: twitter
+  share_pinterest:
+    label: 
+    type: checkbox
+    text: show Pinterest Share button
+    width: 1/2
+    icon: pinterest
+  share_tumblr:
+    label: 
+    type: checkbox
+    text: show Tumblr Share button
+    width: 1/2
+    icon: tumblr
+  share_reddit:
+    label: 
+    type: checkbox
+    text: show Reddit Share button
+    width: 1/2
+    icon: reddit-alien
+  share_googleplus:
+    label:
+    type: checkbox
+    text: show Google plus Share button
+    width: 1/2
+    icon: google-plus
+  share_email:
+    label:
+    type: checkbox
+    text: show Email Share button
+    width: 1/2
+    icon: envelope
+
+  visit_headline:
+    label: 'Visit' Buttons
+    type: headline
+  visit_info:
+    label: 
+    type: info
+    text: >
+        Enter the address of your social media public page to show a 'Visit' button in the site's footer. 
+
+  visit_text:
+    label: Follow Link Text
+    type: text
+    placeholder: Follow us on
+    required: true
+
+  visit_facebook: 
+    label: Facebook link
+    width: 1/2
+    icon: facebook
+    placeholder: https://www.facebook.com/myaccount
+    help: >
+      eg. https://www.facebook.com/myaccount
+  visit_twitter: 
+    label: Twitter link
+    width: 1/2
+    icon: twitter
+    placeholder: https://www.twitter.com/myaccount
+    help: >
+      eg. https://www.twitter.com/myaccount
+  visit_youtube:
+    label: Youtube link
+    width: 1/2
+    icon: youtube
+    placeholder: https://www.youtube.com/channel/channel_id
+    help: >
+      eg. https://www.youtube.com/channel/channel_id
+  visit_instagram: 
+    label: Instagram link
+    width: 1/2
+    icon: instagram
+    placeholder: https://www.instagram.com/myaccount
+    help: >
+      eg. https://www.instagram.com/myaccount
+  visit_pinterest: 
+    label: Pinterest link
+    width: 1/2
+    icon: pinterest
+    placeholder: https://www.pinterest.com/myaccount
+    help: >
+      eg. https://www.pinterest.com/myaccount
+
+  # LINK MENUS TAB
+  # =================================================
+  tab9:
+    label: Link Menus
+    type: tabs
+  menu1_name:
+    label: Menu 1 Title
+    type: text
+  menu1: 
+    label: Menu 1
+    type: structure
+    modalsize: large
+    style: table
+    fields: 
+      menu1_name: 
+        label: Menu Item Title
+        type: text
+        required: true
+      menu1_link:
+        label: Item URL
+        type: text
+        required: true
+  menu2_name:
+    label: Menu 2 Title
+    type: text          
+  menu2: 
+    label: Menu 2
+    type: structure
+    modalsize: large
+    style: table
+    fields: 
+      menu2_name: 
+        label: Menu Item Title
+        type: text
+        required: true
+      menu2_link:
+        label: Item URL
+        type: text
+        required: true
+
+  # FOOTER TAB
+  # =================================================  
+  tab7:
+    label: Footer 
+    type: tabs
+  terms_link:
+    label: Terms and Conditions Link Text
+    type: text
+  terms_text:
+    label: Terms and Conditions Text
+    type: textarea
+    help: >
+      Leave empty to omit 'Terms & Conditions' document from the site.
+  privacy_link:
+    label: Privacy Policy Link Text
+    type: text  
+  privacy_text:
+    label: Privacy Policy Text
+    type: textarea
+    help: >
+      Leave empty to omit 'Privacy Policy' document from the site.
+  footer_text:
+    label: Footer Text
+    type: textarea
+    placeholder: © 2017, Penrith Animal Services - all rights reserved.
+
+  # CERTIFICATE TAB
+  # =================================================
+  tab11:
+    label: Certificate
+    type: tabs
+  signatory:
+    label: Signatory Name
+    type: text
+    placeholder: John Smith
+    help: >
+      Name to appear under the signature
+  position: 
+    label: Position of The Signatory
+    type: text
+    placeholder: Director
+  signature_image: 
+    label: Signature
+    type: image
+    help: >
+      Please upload a <strong>transparent</strong> image in .PNG format. 
+      Signature image size must be 204(w)x73(h) - larger images will be resized automatically.

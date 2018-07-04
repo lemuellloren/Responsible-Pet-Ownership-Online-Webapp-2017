@@ -1,0 +1,82 @@
+Title: Restricted Breed Dogs
+
+----
+
+Text: 
+
+Under the Companion Animals Act 1998(the Act) and the Companion Animals Regulation 1999 for owners of  restricted dogs.
+Local councils have a general duty under the Act to take such steps as necessary to ensure they are aware of the existence of all  restricted dogs that are ordinarily kept in their areas.
+ 
+Officers authorized under the act have the power to seize a restricted dog, if the officer is satisfied that any control requirements have not been complied with in relation to the dog. Council law enforcement officers and police can apply these requirements.  
+
+## Restricted Dogs
+
+It is an offence in New South Wales to breed, acquire, sell or give away a dog breed on the restricted dog list below;
+
+Restricted dogs in NSW are as follows:
+(a)	American Pitbull Terrier or Pitbull Terrier;
+(b)	Japanese Tosa;
+(c)	Dogo Argentino (Argentinean fighting dog);
+(d)	Fila Brasiliero (Brazilian Fighting dog);
+(d1) Any other dog of a breed, kind or description whose importation into the Australia is prohibited by or under the Customs Act 1901 of the Commonwealth;
+(e)	Any dog declared by a council under division 6 of the Act to be a restricted dog;
+(f)	Any dog of a breed, kind or description prescribed by the regulations for the purposes of this section.     
+
+(image: shutterstock_211544005.jpg)
+
+ A council ‘declared restricted dog’ refers to any dog where the council is of the opinion that a dog is of a breed or kind of dog on the restricted dog list or a cross-breed of any such breed or kind of dog.
+
+If council issues a dog owner with a ‘Notice of Intention to Declare a Dog to be a Restricted Dog’ under Division 6, the owner has 28 days in which to complete the process where they may elect to have the dog’s breed and temperament assessed. If you receive such a notice you should contact your local council for further information.
+Please Note: This process does not apply to Declared Dangerous or Menacing Dogs
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    Is it an offence to breed, acquire, sell
+    or give away a Restricted breed dog?
+  choice_1: 'Yes'
+  choice_2: 'No'
+  choice_3: Only after it is de-sexed
+  choice_4: Only after I advise the council
+  answer: "1"
+- 
+  question: >
+    If control requirements have not been
+    complied with in relation to dangerous,
+    menacing and restricted breed dogs who
+    has the power to seize the dog
+  choice_1: Dogs NSW
+  choice_2: Authorised Officers
+  choice_3: Animal Rescue agencies
+  choice_4: All of the above
+  answer: "2"
+- 
+  question: >
+    Which dog is not listed as a Restricted
+    breed?
+  choice_1: >
+    American Pitbull Terrier or Pitbull
+    Terrier
+  choice_2: Japanese Tosa
+  choice_3: English Staffordshire Terrier
+  choice_4: Brazilian Fighting Dog
+  answer: "3"
+- 
+  question: >
+    When the council issues you with a
+    ‘Notice of Intention to Declare a Dog
+    a Restricted breed”, how many days do
+    you have for the dog to be breed
+    assessed?
+  choice_1: 7 days
+  choice_2: 14 days
+  choice_3: 21 days
+  choice_4: 28 days
+  answer: "4"

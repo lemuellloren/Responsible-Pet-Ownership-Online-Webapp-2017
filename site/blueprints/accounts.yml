@@ -1,0 +1,225 @@
+title: Account
+icon: user
+options:
+  status: false
+  delete: false
+  template: false
+  url: false
+  preview: false
+pages: false
+files: false
+fields:
+
+  # SIGN IN TAB
+  # =================================================
+  signIn_line:
+    label: Sign In
+    type: tabs
+  signIn_button_text:
+    label: 'Sign In' Button Text
+    type: text
+    placeholder: Sign In
+    required: true 
+    width: 1/2
+  signIn_modal_title:
+    label: Sign In Modal Title
+    type: text
+    required: true 
+    placeholder: Sign In
+    width: 1/2
+  signinplaceholderemail:
+    label: Sign In Email Field Placeholder
+    type: text
+    required: true
+    width: 1/2
+    placeholder: Email
+  signinplaceholderpasss:
+    label: Sign In Password Field Placeholder
+    type: text
+    required: true
+    width: 1/2
+    placeholder: Password
+  createAccount_button_text:
+    label: 'Create Account' Button Text
+    type: text
+    placeholder: Create Account
+    required: true
+    width: 1/2
+  signIn_modal_forgotpass:
+    label: 'Forgot Password' Text
+    type: text
+    required: true
+    placeholder: Forgot Password
+    width: 1/2
+  signIn_modal_enterinfo:
+    label: 'Enter Information' Text
+    type: text
+    required: true
+    placeholder: >
+      Please enter information below
+  SignIn_modal_noaccount:
+    label: 'No Account' Text
+    type: text
+    help: >
+      'No Account' text won't show if empty.
+    placeholder: >
+      Don't have an account yet?
+      Click the button below to sign up!
+
+  # CREATE ACCOUNT TAB
+  # =================================================
+  enrolltab: 
+    label: Create Account
+    type: tabs
+  createaccount_modal_title:
+    label: Create Account Modal Title
+    type: text
+    required: true
+    placeholder: Create Account
+  createaccount_modal_enterinfo:
+    label: Intro Message    
+    type: text
+    required: true
+    placeholder: Please enter information below
+  fname_placeholder:
+    label: First Name Field Placeholder
+    type: text
+    placeholder: Your First Name
+    width: 1/2
+  lname_placeholder:
+    label: Last Name Field Placeholder
+    type: text
+    placeholder: Your Last Name
+    width: 1/2
+  c_email_placeholder:
+    label: Email Field Placeholder
+    type: text
+    placeholder: Your Email
+  cpassword_placeholder:
+    label: Password Field Placeholder
+    type: text
+    placeholder: Password
+    width: 1/2
+  cc_password_placeholder:
+    label: Confirm Password Field Placeholder
+    type: text
+    placeholder: Confirm Password
+    width: 1/2
+  cpostcode_placeholder:
+    label: Post Code Field Placeholder
+    type: text
+    placeholder: Post Code 
+  petname_placeholder:
+    label: Pet Name Field Placeholder
+    type: text
+    placeholder: Pet Name
+  petname_message:
+    label: Pet Alert Message
+    placeholder: Do you have more than one pet? Enter all their names after you create your account!
+  createaccountbutton:
+    label: Create Account Button Text
+    placeholder: Create Account
+  termandconditions_agreement_text:
+    label: Agreement Text
+    placeholder: By clicking the ‘Create Account’ button, you agree to our...
+  
+  # MY PROFILE TAB
+  # ================================================= 
+  profile_headline:
+    label: My Profile
+    type: tabs   
+  editProfile_button_text:
+    label: 'Edit Profile' Button Text
+    placeholder: Edit Profile
+    required: true
+    width: 1/2
+  changePass_button_text:
+    label: 'Change Password' Button Text
+    type: text
+    placeholder: Change Password
+    required: true
+    width: 1/2
+  my_course_text:
+    label: Enrolled Courses Text
+    type: text
+    placeholder: My Courses
+
+  # EDIT PROFILE TAB
+  # =================================================
+  editprofile_line:
+    label: Edit Profile
+    type: tabs
+  upload_image_text:
+    label: 'Upload Image' Button Text
+    placeholder: Upload Image
+    required: true
+    width: 1/2
+  delete_image_text:
+    label: 'Delete Image' Button Text
+    placeholder: Delete Image
+    required: true
+    width: 1/2  
+  addPet_button_text:
+    label: 'Add Pet' Menu Text
+    placeholder: Add Pet
+    required: true
+    width: 1/2
+  deletePet_button_text:
+    label: 'Delete Pet' Button Text
+    placeholder: Delete Pet
+    required: true
+    width: 1/2
+  delete_account_text:
+    label: 'Delete Account' Button Text
+    placeholder: Delete Account
+    required: true
+    width: 1/2
+  edit_profile_save_button:
+    label: 'Save' Button Text
+    placeholder: Save
+    required: true
+    width: 1/2
+
+  # CHANGE PASSWORD TAB
+  # =================================================
+  changepass_tab_line:
+    label: Change Password
+    type: tabs
+  current_password_text:
+    label: Current Password
+    type: text
+    required: true
+    width: 1/2
+    placeholder: Current Password
+  new_password_text:
+    label: New Password
+    type: text
+    required: true
+    width: 1/2
+    placeholder: New Password
+  confirm_password_text:
+    label: Confirm Password
+    type: text
+    required: true
+    width: 1/2
+    placeholder: Confirm Password
+  change_password_submit_button:
+    label: 'Submit' Button Text
+    type: text
+    required: true
+    width: 1/2
+    placeholder: Submit
+  error_msg_if_password_not_matched:
+    label: 'Password Not Matched' Error Message
+    type: text
+    required: true
+    placehoder: 'New Password' and 'Confirm Password' should match.
+    help: >
+      Error message to display  if 'new password' and 'confirm password' do not match.  
+  error_msg_if_password_is_short:
+    label: 'Password Too Short' Error Message
+    type: text
+    required: true
+    placeholder: Password should be at least 8 characters long.
+    help: >
+      Error message to display if user password is shorter than 8 characters 

@@ -1,0 +1,102 @@
+Title: Is Your Dog an Escape Artist?
+
+----
+
+Text: 
+
+Here are some tips
+
+Ensure your fence is high enough and has no holes or gaps at the bottom between the fence and the ground.
+
+(image: dog-climbing-over-chain-link-fence-200x300.jpg)
+
+Also make sure the fence is in good repair.
+Don't place stones, bricks or car tyres in the holes as they are easily moved by some animals and can make excellent climbing opportunities for others.
+Quick dry cement is an easy option if you need to fill a hole quickly and easily. Place the quick-dry cement in the hole and add water as per instructions on the bag. If the dog continues to dig then a cement trench along the fence line should help. Another option is an "L footer”. This is a wire barrier in an L shape. Place one section along the fence and the other section on the grass. Wire or netting can be used and the grass can grow through it to help keep it secure.
+
+You could also use a "lean in section”. This will help with dogs or cats that can jump the fence as the lean on the fence stops jumping.
+
+If you are renting a "pipe line" may help, as this system can be removed. Attach brackets to each end of the fence, thread a wire through a plastic pipe, like plumbers pipe and connect the brackets.
+
+(image: pictures-from-phone-040.jpg)
+
+Check all gates to make sure they close and lock properly and consider a padlock to stop clever dogs or strangers from opening the gate
+
+(image: fb_img_1490250899924.jpg)
+
+If you have a very experienced escape artist consider a running line. This is a length of strong wire between two secure points. Attach a lead onto the wire and clip this onto your dog’s harness. Never use a collar or check chain on a running line as they are made to slip and may choke your dog if the dog gets tangled up. Make sure the line is far enough away from the fence so the dog cannot jump over it.Have food and water at one end and a shelter at the other end. Clear all impediments that may tangle up the dog. The dog can still walk/run around your yard but cannot escape.
+
+Clear all items from around the boundary fences as the dog may use them as a stepping stone or launching point. 
+
+Dogs are very clever and will work out the easiest and best escape routes. Don't leave piles of bricks, chairs or BBQ equipment along the fence. Sometimes blocking the view to the outside world can deter the dog from trying to escape.
+
+
+If your dog is an inside/outside dog then make sure your front doors can be locked so family members don’t leave them accidentally open.
+
+It is very easy to get caught up with what you are doing and before you know it the dog has escaped. Before you open the front door or the garage door make sure your dog is in a secure area of the house or yard, especially if your dog likes to run through the house and out the front door or through the garage.
+
+Have all the outside gates self-closing and if you have electric gates remember to stay close by until they have fully closed to ensure the dog has not followed you through. Remember to walk your dog daily. A well exercised dog may not feel the need to escape.
+
+Desexing your pet is healthier for your pet and can also reduce the urge to roam.
+
+Training, training and more training. There is nothing better than training your dog to help them understand what is required of them to live in your world. Consider joining your local dog club, not only is it a fun activity for the whole family, specially your dog but is also a wonderful resource for all your dog questions.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    How do I stop my dog from getting
+    through the fence?
+  choice_1: Make sure the fence is in good repair
+  choice_2: >
+    Place bricks and stones in the holes
+    under the fence
+  choice_3: Tie the dog up on a short rope
+  choice_4: Fill the hole with dirt
+  answer: "1"
+- 
+  question: What is a "pipe line"
+  choice_1: A pipe that holds oil
+  choice_2: A utensile for smoking
+  choice_3: A line made by a pipe
+  choice_4: >
+    A system that attaches to the fence with
+    brackets
+  answer: "4"
+- 
+  question: >
+    What can help stop an experienced escape
+    artist?
+  choice_1: Using a "running line"
+  choice_2: >
+    Checking all doors and gates are close
+    properly
+  choice_3: Clearing all items from boundary fences
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    What can reduce the urge for your dog to
+    roam?
+  choice_1: Feeding him lots of food
+  choice_2: Desexing your dog
+  choice_3: Having a friend to play with
+  choice_4: Nothing, all dogs like to roam
+  answer: "2"
+- 
+  question: Do all dogs need to have training?
+  choice_1: >
+    Yes, training benefits not only the dog
+    but also the owner
+  choice_2: >
+    No, I have owned dogs all my life, I
+    know what i am doing
+  choice_3: "No, my dogs comes back to me so it doesn't need to know anything else"
+  choice_4: Yes, but Im the only one that can do it
+  answer: "1"

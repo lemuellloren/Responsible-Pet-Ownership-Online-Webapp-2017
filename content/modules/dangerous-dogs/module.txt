@@ -1,0 +1,83 @@
+Title: Dangerous Dogs & Menacing Dogs
+
+----
+
+Text: 
+
+Under the Companion Animals Act 1998(the Act) and the Companion Animals Regulation 1999 for owners of dangerous, menacing and restricted dogs.
+Local councils have a general duty under the Act to take such steps as necessary to ensure they are aware of the existence of all dangerous, menacing and restricted dogs that are ordinarily kept in their areas.
+ 
+Officers authorized under the act have the power to seize a dangerous, menacing or restricted dog, if the officer is satisfied that any control requirements have not been complied with in relation to the dog. Council law enforcement officers and police can apply these requirements.  
+
+## Dangerous Dogs and Menacing Dogs
+
+A dog may be declared ‘dangerous’ or ‘menacing’ if it has without provocation attacked or killed a person or animal or, repeatedly threatened to attack or repeatedly chased a person or animal.
+
+(image: sappie-toy.jpg)
+
+
+A dog may also be declared dangerous or menacing if it has displayed unreasonable aggression towards a person or animal. 
+
+Council’s must give notice to the owner of a dog if the intention of council is to declare the dog to be dangerous or menacing. 
+
+Dangerous and Menacing dogs’ in N.S.W are the subject of a declaration made by a council or a court under the Act.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    Who has the general duty to take any
+    necessary steps to ensure they are aware
+    of all dangerous, menacing and
+    restricted breed dogs?
+  choice_1: RSPCA
+  choice_2: Animal Welfare League
+  choice_3: NSW Police
+  choice_4: Local Councils
+  answer: "4"
+- 
+  question: 'A dog can be declared ‘dangerous’ or’ menacing’ if it has, without provocation:'
+  choice_1: Attacked or killed a person or animal
+  choice_2: >
+    Repeatedly threatened to attack or chase
+    a person or animal
+  choice_3: >
+    Displayed unreasonable aggression
+    towards a person or animal
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    Who can issue a declaration for
+    Dangerous or Menacing dogs in NSW.
+  choice_1: Animal Welfare League
+  choice_2: RSPCA
+  choice_3: Veterinarian
+  choice_4: Council
+  answer: "4"
+- 
+  question: >
+    At what age can a person be in the sole
+    control of a dangerous, menacing or
+    restricted dog.
+  choice_1: 16 years
+  choice_2: 18 years
+  choice_3: 21 years
+  choice_4: No age limit
+  answer: "2"
+- 
+  question: >
+    What is the name of the Act that a dog
+    can be declared a Dangerous/Menacing or
+    Restricted dog
+  choice_1: Dog Act 1966
+  choice_2: Prevention of cruelty to animals
+  choice_3: NSW Companion Animals Act 1998
+  choice_4: 'Dangerous/Menacing & Restricted Act'
+  answer: "3"

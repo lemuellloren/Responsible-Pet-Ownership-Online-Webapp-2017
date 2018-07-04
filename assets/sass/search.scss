@@ -1,0 +1,225 @@
+@import 'base';
+// STYLES
+section#searchResult-section {
+    // padding-bottom: 3%;
+    padding-top: 75px;
+    @media (min-width: 600px){
+        padding-top: 120px; 
+    }
+    @include width-768 {
+       padding-top: 130px; 
+   }
+
+   h3 {
+    line-height: 0.9;
+}
+h1 {
+    color: $mainColor;
+    line-height: 1;
+    margin: 0;
+}
+h2 {
+    color: $SecColor;
+}
+small {
+    color: $SecColor;  
+}
+.search-result {
+    text-align: left;
+    // padding: 20px;
+    padding-bottom: 0px;
+    // @media screen and (min-width : 1210px) {
+    //     padding-left: 8%;
+    //     padding-right: 8%;
+    // }
+    // @media screen and (min-width : 1366px) {
+    //     padding-left: 5.5%;
+    //     padding-right: 5.5%;
+    // }
+    // @media screen and (min-width : 1920px) {
+    //     padding-left: 18.5%;
+    //     padding-right: 18.5%;
+    // }
+    @include width-640 {
+        text-align: justify;
+        // padding-left: 30%;
+        // padding-right: 30%;
+    }
+    .search-title {
+        padding: 10px 0 100px 300px;
+        overflow: hidden;
+    }
+    .search-result-output {
+        padding: 10px 0 60px 300px;
+        overflow: hidden;
+    }
+    .orbit{
+        a.searchLinks{
+            &:first-child{
+                .section-boxSectionTitle5 {
+                    border-top: 1px solid $gray;
+                    margin-top: 1px;
+                }
+            }
+            &:last-child{
+                .section-boxSectionTitle5 {
+                    border-bottom: 1px solid $gray;
+                    margin-bottom: 1px;
+                }
+            }
+            &:hover {
+                img{
+                  transform: translateX(5px);
+              }
+              .section-boxSectionTitle5 {
+                background: $warmYellowHover;
+            }
+        }
+        &:focus {
+                img{
+                  transform: translateX(5px);
+              }
+              .section-boxSectionTitle5 {
+                background: $warmYellowHover;
+            }
+        }
+    }
+    .pagination{
+      a {
+        border: 0px;
+        @include softtransition();
+    }
+    a#nextLink{
+        &:hover{
+          transform: translateX(5px);
+      }
+  }
+  a#prevLink{
+    &:hover{
+      transform: translateX(5px);
+  }
+}
+}
+}
+
+}
+}
+#searchResult-section  {
+    .title {
+        padding: 0 0 100 300;
+        overflow: hidden;
+    }
+}
+#searchResult-section {
+    .orbit {
+        //margin-bottom: -15px;
+        max-width: 75rem;
+        margin: 0 auto;
+    }
+}
+
+section#searchResult-section {
+    a img{
+        width: 15px;
+        position: absolute;
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        top: 33%;
+        transition: all 0.4s ease;
+        -webkit-transition: all 0.4s ease;
+        -moz-transition: all 0.4s ease;
+        -ms-transition: all 0.4s ease;
+        right: 7%;
+    } 
+    .search-result {
+        // padding-left: 8%;
+        // padding-right: 8%;
+    }
+    ul{
+        margin: 0px;
+    }
+    .pagination {
+        width: 55px;
+        height: 60px;
+        line-height: 50px;
+        background-color: none;
+        text-indent: -9999px !important;
+        z-index: 10;
+        font-size: 20px;
+        position: absolute;
+        right: 20px;
+        top: 3px;
+    }
+    .pagination a, button {
+        color: #FFFFFF !important;
+        font-size: 25px !important;
+        margin-top: -9px;
+        &:hover {
+            background: transparent;
+        }
+    }
+
+}
+
+@media screen and (min-width : 300px) and (max-width : 480px) {
+    section#searchResult-section {
+        .section-boxSectionTitle5 {
+            h3 {
+                font-size: 15px !important;
+            }
+        }
+        h3 {
+            width: 90%;
+            overflow: hidden;
+        }
+        .search-result {
+            padding-left: 0;
+            padding-right: 0;
+            .search-title {
+                padding: 0px 0px 20px 20px;
+                overflow: visible;
+            }
+            .search-result-output {
+                padding: 0px 0px 20px 20px;
+                overflow: visible;
+            }
+        }
+    }
+}
+
+@media screen and (min-width : 481px) and (max-width : 768px) {
+    section#searchResult-section {
+        .section-boxSectionTitle5 {
+            h3 {
+                font-size: 15px !important;
+            }
+        }
+        h3 {
+            width: 90%;
+            overflow: hidden;
+        }
+        .search-result {
+            padding-left: 0;
+            padding-right: 0;
+            .search-title {
+                padding: 0px 0px 20px 20px;
+                overflow: visible;
+            }
+            .search-result-output {
+                padding: 0px 0px 20px 20px;
+                overflow: visible;
+            }
+        }
+    }
+}
+
+#searchResult-section {
+    .section-boxSectionTitle2 {
+        padding: 15px;
+        padding-left: 15px;
+    }
+    .section-boxSectionTitle5 {
+        padding: 15px;
+        padding-left: 15px;
+    }
+}

@@ -1,0 +1,46 @@
+Tab1: 
+
+----
+
+Seo: 
+
+-
+  seo-title: ""
+  seo-description: "Forget the myths, and come learn the facts about desexing: what it is, how it affects your pet, and the costs of desexing - and not desexing - your pet."
+
+----
+
+Mainimage: dog-in-field.jpg
+
+----
+
+Keywords: dog desexing,cat desexing,desexing costs,desexing benefits
+
+----
+
+Tab2: 
+
+----
+
+Title: All About Desexing
+
+----
+
+Course-description: 
+
+Forget the myths, and come learn the facts about desexing: what it is, how it affects your pet, and the costs of desexing - and not desexing - your pet.
+
+Please read through the material below and then take the test.
+
+----
+
+Module-items: 
+
+- 
+  modules_select: "26"
+- 
+  modules_select: "29"
+
+----
+
+Is-a-feature-course: 1

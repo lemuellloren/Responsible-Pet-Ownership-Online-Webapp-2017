@@ -1,0 +1,179 @@
+title: Courses
+icon: book
+
+options: 
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+
+pages: 
+  template:
+    - course
+
+files: true
+
+fields:
+
+  # PAGE METADATA TAB
+  # =================================================
+  tab1: 
+    label: Page Metadata
+    type: tabs
+  share_info:
+    label: 
+    type: info
+    text: >
+      To create a new course, click the 'Add' button in the Pages section of the left sidebar.
+  seo: 
+    type: seo
+    help: >
+      Click the title to change the page title. Click the description to change the page description.
+ 
+  mainImage:
+      label: Main Image 
+      type: image
+      required: true
+      help: >
+        Image used by search engines and social media sites when previewing this page.
+        Ideal image size is 1200(w)x630(h)pixels - larger images will be resized and cropped automatically.
+        
+  keywords:
+    label: Keywords
+    type:  tags
+
+  # COURSES PAGE TAB
+  # =================================================
+  courselist: 
+    label: Courses Page
+    type: tabs
+
+  coursetitle: title
+    label: Heading Text
+    type: text
+    required: true
+    placeholder: COURSES
+
+  header_text:
+    label: Sub-Heading Text
+    type: text
+    required: true
+    placeholder: RESPONSIBLE PET OWNER ONLINE
+
+  course_gallery:
+    label: Featured Courses Slideshow Title
+    type: text
+    required: true
+    placeholder: Featured Courses
+
+  courses_list:
+    label: More Courses List Title
+    type: text
+    required: true
+    placeholder: More Courses     
+
+  # COURSE SETTINGS TAB
+  # =================================================
+  tab2: 
+    label: Course Settings
+    type: tabs
+
+  course_headline: 
+    label: Course Settings  
+    type: headline
+
+  enrollNow_button_text: 
+    label: 'Enrol' Button Text
+    type: text
+    placeholder: Enrol Now
+    width: 1/2
+    required: true
+
+  withdraw_button_text: 
+    label: 'Withdraw' Button Text
+    type: text
+    placeholder: Withdraw 
+    width: 1/2
+    required: true
+
+  takeTest_button_text:
+    label: 'Take Test' Button Text
+    type: text
+    width: 1/2
+    required: true
+    placeholder: Take Test
+
+  downloadCert_button_text: 
+    label: 'Download Certificate' Button Text
+    type: text
+    placeholder: Download Certificate
+    width: 1/2
+    required: true
+
+  featured_courses:
+    label: Featured Courses Slideshow Title
+    type: text
+    placeholder: Featured Courses
+    required: true
+
+  test_setting_headline: 
+    label: Test Setttings
+    type: headline
+
+  test_title:
+    label: Test Modal Title
+    type: text
+    required: true
+    placeholder: Test Yourself
+
+  test_answers_title: 
+    label: Test Answers Modal Title
+    type: text
+    required: true 
+    placeholder: Test Answers
+  
+  button_line: 
+    label: Test Buttons Settings
+    type: headline
+
+  next_button_text:
+    label: 'Next' Button Text
+    type: text
+    placeholder: Next
+    width: 1/2
+    required: true   
+
+  prev_button_text: 
+    label: 'Prev' Button Text
+    type: text
+    placeholder: Prev
+    width: 1/2
+    required: true   
+
+  submit_button_text:
+    label: 'Submit' Button Text
+    type: text
+    placeholder: Submit
+    width: 1/2
+    required: true   
+
+  showAnswer_button_text:
+    label: 'Show Answers' Button Text
+    type: text
+    placeholder: Show Answers
+    width: 1/2
+    required: true   
+
+  tryTest_button_text: 
+    label: 'Try Test Again' Button Text
+    type: text
+    placeholder: Try Test Again
+    width: 1/2
+    required: true  
+
+  backtoCourse_button_text: 
+    label: 'Back to Course' Button Text 
+    placeholder: Back to Course
+    width: 1/2
+    required: true

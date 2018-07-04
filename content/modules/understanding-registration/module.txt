@@ -1,0 +1,89 @@
+Title: Understanding Registration
+
+----
+
+Text: 
+
+## How do you register your dog or cat? 
+
+You must register your cat or dog with your local council. You will need to bring the following things with you:
+•	The fee (check Council’s payment options).
+•	A signed Lifetime Registration (R2) Form.
+•	A copy of your cat or dog's Permanent Identification (P1A) Form or Verification of Existing Microchip (M1) Form completed by an Authorised Identifier, or Certificate of        Identification.
+•	Proof of desexing, if applicable. This may take the form of a Certificate of Sterilisation or receipt containing microchip number from a Vet or a statutory declaration from a previous owner stating that the cat or dog has been desexed and is permanently incapable of reproduction.
+•	Any other document entitling you to a discount, for example, a pensioner concession card or recognised breeder identification.
+
+Your local council will issue a Certificate of Registration to you after your cat or dog is registered. The Certificate will include the registration information recorded on the NSW Companion Animals Register. If your contact details change you must notify the local council within 14 days of the change, as penalties may apply. Keeping your contact details up to date will assist in the return of your cat or dog if they become lost or stray.
+
+## Registration fees 
+
+Current lifetime registration fees (valid for the cat or dog's lifetime) are as follows:
+July 1st CPI increases
+
+Registration type
+- Animal not desexed:	$201
+- Desexed animal:	$55
+- Animal not desexed kept by recognised breeder for breeding purposes:	$55
+- Desexed animal owned by eligible pensioner*:	$23
+- Desexed animal sold by eligible pound or shelter	:  $27.50
+
+*An eligible pensioner is a person in receipt of the aged pension, war widow pension or disability pension. If you are unsure whether you are an eligible pensioner, please contact your local council.
+
+## Are there any refunds for lifetime registration fees?
+
+No. In NSW, registration is required once only and is valid for the animal's lifetime. As a result, it is not possible to obtain a refund if, for example, you have your animal desexed or your animal dies after you register it.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    What do you need to bring when
+    registering your dog or cat?
+  choice_1: Microchip number of the animal
+  choice_2: >
+    Desexing certificate, for cheaper
+    payment
+  choice_3: Payment
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    How much does it cost to register an
+    non-desexed dog or cat?
+  choice_1: $201
+  choice_2: $55
+  choice_3: $23
+  choice_4: $27.50
+  answer: "1"
+- 
+  question: What are registration fees used for?
+  choice_1: Revenue raising
+  choice_2: >
+    Animal management services relating to
+    the community
+  choice_3: Council coffers
+  choice_4: Not sure
+  answer: "2"
+- 
+  question: Why do you need proof of desexing?
+  choice_1: To show you are a responsible owner
+  choice_2: To receive a discount registration fee
+  choice_3: "You don't need one"
+  choice_4: Not sure
+  answer: "2"
+- 
+  question: >
+    What is the document you receive from
+    council after paying your registration
+    fee called.
+  choice_1: Payment receipt
+  choice_2: Proof of identification
+  choice_3: Certificate of Registration
+  choice_4: Certificate of Identification
+  answer: "3"

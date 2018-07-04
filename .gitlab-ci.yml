@@ -1,0 +1,27 @@
+before_script:
+  - apt-get update -qq 
+  - curl https://raw.githubusercontent.com/git-ftp/git-ftp/master/git-ftp > git-ftp
+  - chmod 755 git-ftp
+  - export PATH=".:$PATH"
+  - git-ftp --version
+
+deploy-staging:
+  stage: deploy
+  script:
+    - git-ftp push --auto-init -u "$STAGE_USERNAME" -p "$STAGE_PASSWORD" "$STAGE_HOST"
+  only:
+    - develop
+  environment:
+    name: staging
+    url: https://rpo.macservery.com
+
+deploy-production:
+  stage: deploy
+  script:
+    - git-ftp push --auto-init -u "$PROD_USERNAME" -p "$PROD_PASSWORD" -v "$PROD_HOST"
+  only:
+    - master
+  when: manual
+  environment:
+    name: production
+    url: http://penrith.gov.au

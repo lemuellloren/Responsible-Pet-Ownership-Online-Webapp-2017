@@ -1,0 +1,84 @@
+Title: Responsible Cat Ownership Intro
+
+----
+
+Text: 
+
+## What Is Responsible Cat Ownership?
+
+Cat owners have a responsibility to their cat and the community to ensure their cat is housed, managed and kept responsibly. Irresponsible ownership can jeopardise the safety of the animal and tarnish the reputation of the cat when it is simply behaving as a cat does.
+People often have divided opinions about cats, you either like them or you don’t. Cats are seen in the community as either a friend or a pest.
+
+This module is designed to help cat owners and people thinking of getting a cat to house and manage their pets in a responsible and safe way. This is healthier for the cat, the family and the wider community.
+
+(image: bella-2.jpg)
+
+## Roaming Cats & the Law
+
+There is no law prohibiting cats from roaming. Cat owners need to be aware that if their cat roams onto private property and causes damage it may be declared a nuisance cat.
+
+(image: img_6467.jpg)
+
+## Stray Cats
+
+If you have a stray cat around your home or work place you should leave the cat alone as they are known to roam long distances from their own property & will go back, there as long as you don’t provide them with food or water as this will encourage the cat to stay hanging around.
+
+## Understanding Cat Behaviour
+
+By nature, cats are predators.  Cats also roam to provide themselves with mental & physical exercise. Unfortunately, your neighbours many not appreciate your cat coming onto their property. When cats roam they often urinate and defecate on lawns and gardens and can cause damage to cars by jumping on and off them.
+
+(image: molly-in-a-bag.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    Is there a law that prevents cats from
+    roaming?
+  choice_1: Yes, because cats should be controlled
+  choice_2: No, they are allowed to roam
+  choice_3: >
+    Cats are like dogs and must stay on
+    their property
+  choice_4: Cats should be in at night
+  answer: "1"
+- 
+  question: >
+    Which answer is correct if you see a
+    cat?
+  choice_1: Leave the cat alone
+  choice_2: Leave food and water out for the cat
+  choice_3: Take the cat to the pound
+  choice_4: >
+    Pick up the cat and take it home with
+    you
+  answer: "1"
+- 
+  question: What are people opinions of cats
+  choice_1: They like them
+  choice_2: They hate them
+  choice_3: They are a pest
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: Cat owners have a responsibility to...
+  choice_1: House and manage their cats responsibly
+  choice_2: Let them be cats
+  choice_3: Do nothing
+  choice_4: Jeopardises the cats reputation
+  answer: "1"
+- 
+  question: What damage can cats cause by roaming?
+  choice_1: >
+    Scratches to vehicle by jumping on an
+    off them
+  choice_2: Fights with other animals
+  choice_3: Killing native wildlife
+  choice_4: All of the above
+  answer: "4"

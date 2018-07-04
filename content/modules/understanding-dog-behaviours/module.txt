@@ -1,0 +1,134 @@
+Title: Understanding dog behaviours
+
+----
+
+Text: 
+
+A big part of being a dog owner is being able to recognise and understand your dog’s modds and emotions. Just like humans, dogs can develop behavioural problems based on their surroundings. So it's your responsibility as their owner to be aware of these issues and help your dog deal with them.
+
+Below is a list of some common dog behaviours and what they mean.
+
+(image: fb_img_1490250873730.jpg)
+
+## Aggression
+Aggression can be shown by a range of different behaviours that usually begins with warning signs, and can culminate in a possible attack. A dog that shows aggression to people usually exhibits one or more of these behaviours: 
+
+* Becoming very still and rigid
+* Guttural barking that sounds threatening
+* Lunging forward or charging at the person with no contact
+* Mouthing, as though to move or control the person, without applying significant pressure
+* ‘Muzzle punch’ (the dog literally punches the person with her nose)
+* Growling
+* Showing teeth
+* Snarling (a combination of growling and showing teeth)
+* Snapping
+* Giving a quick nip that leaves no mark
+* Giving a quick bite that tears the skin
+* Biting with enough pressure to cause a bruise
+* Biting that causes puncture wounds
+* Repeated biting in rapid succession
+* Biting and shaking
+
+Please be aware that not all dogs will follow this sequence of behaviours exactly.
+
+## Barking
+Barking is one of many forms of vocal communication for dogs. However, sometimes a dog’s barking can become excessive. Because barking serves a variety of functions, you must identify the cause and motivation for barking before you can treat a barking problem.
+
+Some reasons dogs may bark include:
+•	Territorial barking
+•	Alarm barking
+•	Attention-seeking barking
+•	Greeting barking
+•	Compulsive barking
+•	Socially barking
+•	Frustration-induced barking
+
+## Mouthing, nipping and play biting
+Mouthing, nipping and play biting are often associated with puppies, but they can also be present in adult dogs.
+
+(image: shutterstock_347224781.jpg)
+
+Most mouthing is normal dog behaviour. But adult dogs who mouth people probably never learned not to do so during puppyhood. The jaws of an adult dog can cause significantly more pain than puppy teeth and adult dogs can accidentally cause injury when mouthing. Mouthing is often more difficult to stop in adult dogs because adults aren’t as sensitive to our reactions as puppies are, and they’re usually more difficult to control physically because of their size.
+
+Puppies spend a great deal of time playing, chewing and investigating objects. Puppies chew on our fingers and toes, and they investigate people’s bodies with their mouths and teeth. This kind of behaviour may seem cute when your dog is seven weeks old, but isn’t when they’re 2 or 3 years old.
+
+There are some simple things you can do to discourage this behaviour in your dog. Avoid jerking your hands or feet away from your dog when they mouth. Jerky movements might seem like a game to your dog and encourage them to jump forward and grab at you. Also avoid waving your fingers or toes in your dog’s face or slapping the sides of his face to entice them to play. Doing these things can actually encourage your dog to bite your hands and feet.
+
+## Digging
+Dogs dig for a variety of reasons:
+•	Dogs will often dig out of boredom. If you leave your dog out alone in the yard for any length of time, they may dig just for something to do. Provide them with chew toys or interactive toys like a ‘Kong’ or ‘Pet Planet’ rubber toy with treats stuffed inside.
+•	Digging can often be used as a means of escape. 
+•	If you have an intact (unspayed, or unneutered) dog, they may be digging to escape so they can mate with another dog. If you don’t plan to breed your dog, a good way to prevent digging is to have them desexed.
+•	Deeper layers of soil tend to be cooler, so your dog may be digging to find relief from the heat. Always provide a cool, shady place for your dog to rest when they are outside.
+•	Dogs bury bones or other treats for when they may need them. Your dog may be digging to bury or uncover a bone or treat.
+
+There are some additional solutions you can try to stop your dog digging or deter them from digging in inappropriate areas. One option is to put pepper or small amounts of citrus on the inappropriate area (where you don’t want them to dig). There are also commercial products available such as ‘Keep Off’, ‘No-Dig’, or ‘Get Off My Garden’. Burying chicken wire, or covering the dirt with landscape rocks may also stop dogs from digging.
+
+(image: img_20151116_201043.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: What are common dog behaviours?
+  choice_1: Barking
+  choice_2: Chewing
+  choice_3: Digging
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: What is a Muzzle Punch?
+  choice_1: >
+    When a dog nudges a person with their
+    nose
+  choice_2: >
+    When a dog punches the person with their
+    nose
+  choice_3: A dog muzzle
+  choice_4: A cat muzzle
+  answer: "2"
+- 
+  question: What could happen if a dog gets out?
+  choice_1: They could be hit by a car
+  choice_2: >
+    They could get into a fight with another
+    dog
+  choice_3: They could be taken to the pound
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    If there is more than one dog housed in
+    a yard, what should you do?
+  choice_1: Feed all dogs in one bowl.
+  choice_2: >
+    Just have one bed/shelter for all dogs
+    to share
+  choice_3: >
+    Each dog has their own food bowl and
+    sleeping area.
+  choice_4: >
+    Throw the food on the ground for all the
+    dogs.
+  answer: "3"
+- 
+  question: Why dog dogs "mouth"
+  choice_1: Because it feels good
+  choice_2: Because they like to bite
+  choice_3: >
+    Because they never learnt not to when
+    they where puppies
+  choice_4: None of the above
+  answer: "3"
+- 
+  question: Why do dogs bark?
+  choice_1: It is their main type of communication
+  choice_2: To scare intruders away
+  choice_3: Because they are bored
+  choice_4: All of the above
+  answer: "4"

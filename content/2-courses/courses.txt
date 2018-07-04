@@ -1,0 +1,97 @@
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend erat quis tortor mollis dictum. Maecenas aliquam ut metus ac.
+
+----
+
+Keywords: cat owners,dog owners,responsible cat,responsible dog,desexing animals,barking dogs,nuisance animals,dangerous dogs,dog attack
+
+----
+
+Mainimage: 2-dogs-on-couch.jpg
+
+----
+
+Test-title: Test Yourself
+
+----
+
+Test-answers-title: Test Answers
+
+----
+
+Next-button-text: next
+
+----
+
+Prev-button-text: prev
+
+----
+
+Submit-button-text: Submit
+
+----
+
+Showanswer-button-text: Show Answers
+
+----
+
+Trytest-button-text: Try Test Again
+
+----
+
+Backtocourse-button-text: Back to Course
+
+----
+
+Downloadcert-button-text: Download Certificates
+
+----
+
+Enrollnow-button-text: Enrol Now
+
+----
+
+Withdraw-button-text: Withdraw
+
+----
+
+Taketest-button-text: Take Tests
+
+----
+
+Title: Course List
+
+----
+
+Viewcourse-button-text: View course
+
+----
+
+Header-text: RESPONSIBLE PET OWNER ONLINE
+
+----
+
+Courselisting-header-text: More courses
+
+----
+
+Seo: 
+
+-
+  seo-title: "Courses"
+  seo-description: "Australia is one of the largest pet ownership countries in the world. These courses will help pets owners of all levels to learn about having a happy pets in your household and the community"
+
+----
+
+Coursetitle: COURSES
+
+----
+
+Course-gallery: Featured Courses
+
+----
+
+Courses-list: More Courses
+
+----
+
+Featured-courses: Featured Courses

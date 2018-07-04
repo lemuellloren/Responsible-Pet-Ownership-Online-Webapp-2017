@@ -1,0 +1,13 @@
+@media print, screen and (min-width: 64em) {
+  .dashboard {
+    -webkit-column-count: 2;
+            column-count: 2; }
+  #mywidget-widget {
+    float: left !important;
+    left: 1.7% !important;
+    width: 96.7%;
+    text-align: center; } }
+
+.field-with-textarea .field-buttons {
+  background: #fff; }
+/*# sourceMappingURL=panel.css.map */

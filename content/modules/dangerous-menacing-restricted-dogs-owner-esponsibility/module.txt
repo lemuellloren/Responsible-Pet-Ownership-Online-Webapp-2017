@@ -1,0 +1,111 @@
+Title: Dangerous, Menacing & Restricted dogs Owner Responsibility
+
+----
+
+Text: 
+
+Owner responsibilities
+
+Owners of a dangerous, menacing or restricted dog must ensure that each of the control requirements are met under sections 51 and 56 of the Act and the relevant parts of the Regulation are complied with. 
+If your dog becomes a declared dog under any of these categories council would then advise you of your requirements in full.    
+
+(image: dangereous-collar.jpg)
+  
+
+All dangerous, menacing and restricted dog owners must ensure that certain legislative requirements for the dog are met and are listed below:
+  
+•	Microchip and Lifetime Register 
+
+•	Collar – A distinctive red and yellow striped collar must be worn at all times and can be purchased at council
+
+•	De-sex your dog   
+
+•	Dangerous Dog Collar – of a prescribed design to be worn at all times (council can advise suppliers of product).
+
+•	Enclosure – dog must be kept in an enclosure that complies with the prescribed regulations 
+
+•	Warning Dangerous Dog Signs – Display one sign or more at your property or the property of where the animal is usually kept - can be purchased at council
+
+•	Muzzle – Dog to be muzzled when outside of enclosure
+
+•	Control – Under effective control of   person 18 years and over by adequate chain, cord or leash that is held by or secured to the person   
+
+(image: dangerous-sign.jpg)
+
+## Other Responsibilities 
+
+It is an offence to sell or give away a dangerous, menacing or restricted dog or if the dog is subject to a notice of intention to declare as such.
+
+Owners must notify council in the area of where the dog is usually kept within 24hrs if:
+ 
+•	The dog has attacked or injured a person or animal;
+•	The animal cannot be found
+•	The animal has died
+•	The dog is being kept at a different address in the area of the council;
+•	The dog is being kept outside the council area.
+
+
+
+## Failure to Comply
+
+An owner may be issued with a Penalty Infringement Notice for Failure to Comply with Requirements.
+
+These offences may also result in the seizure and destruction of your dog. The owner of the dog is responsible for all impounding and sustenance fees.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    How long does an owner have to contact
+    council if their dog attacks or injures
+    a person?
+  choice_1: 1 hour
+  choice_2: 1 day
+  choice_3: 1 week
+  choice_4: 1 month
+  answer: "2"
+- 
+  question: >
+    What are three things your dog requires
+    if it is declared a dangerous or
+    restricted dog?
+  choice_1: >
+    Warning sign, microchip and
+    registration, desexed
+  choice_2: Muzzle, Behavioural training, enclosure
+  choice_3: >
+    Enclosure, de-sexed, temperament
+    assessment
+  choice_4: Warning sign, muzzle, lead
+  answer: "1"
+- 
+  question: >
+    Is it an offence to sell or give away a
+    dangerous, menacing or restricted dog?
+  choice_1: "Don't know"
+  choice_2: Maybe
+  choice_3: 'Yes'
+  choice_4: 'No'
+  answer: "3"
+- 
+  question: What colour is the required collar?
+  choice_1: 'Black & tan'
+  choice_2: Any colour you want
+  choice_3: 'Pink & purple'
+  choice_4: 'Red & yellow'
+  answer: "4"
+- 
+  question: >
+    Does your declared dangerous dog have to
+    wear a muzzle?
+  choice_1: Only when I feel like it
+  choice_2: Anytime it is out of its enclosure
+  choice_3: 'No'
+  choice_4: Only when out in public
+  answer: "2"

@@ -1,0 +1,10 @@
+\.git*
+cgi-bin/*
+\.ftpquota
+content/*
+assets/avatars/*
+site/accounts/*
+thumbs/*
+design_docs/*
+config.codekit3
+bower.json

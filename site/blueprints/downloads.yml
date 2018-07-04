@@ -1,0 +1,16 @@
+title: Downloads
+icon: download
+
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: true
+pages: false
+files: true
+  sanitize: true
+  sortable: true
+  size: 8000000
+  width: 4000
+  height: 3000

@@ -1,0 +1,41 @@
+title: Help
+icon: question-circle
+pages: false
+options:
+  url: false
+  delete: false
+  status: false
+  template: false
+files:
+  sanitize: true
+  sortable: true
+  size: 8000000
+  width: 4000
+  height: 3000
+fields:
+  tab1: 
+    label: Page Metadata
+    type: tabs
+  seo:
+    type: seo
+    help: >
+      Click the title to change the page title. Click the description to change the page description.
+  mainImage:
+      label: Main Image 
+      type: image
+      required: true
+      help: >
+        Image used by search engines and social media sites when previewing this page.
+        Ideal image size is 1200(wide)x630(tall)pixels - larger images will be resized and cropped automatically.
+  keywords:
+    label: keywords
+    type: tags
+  tab2: 
+    label: Help Page
+    type: tabs
+  help_text: 
+    label: Help text
+    type: textarea
+    help: >
+        Put help text inside this area. You can also add download links and images.
+  

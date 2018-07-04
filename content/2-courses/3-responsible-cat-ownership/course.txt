@@ -1,0 +1,50 @@
+Tab1: 
+
+----
+
+Seo: 
+
+-
+  seo-title: ""
+  seo-description: "Cats - Responsible cat ownership is important for the health of your cats as well as the native wildlife"
+
+----
+
+Mainimage: paul-279366.jpg
+
+----
+
+Keywords: responsible cat,nuisance cats,desexing cats,roaming cats,microchip and registration of cats
+
+----
+
+Tab2: 
+
+----
+
+Title: Responsible Cat Ownership
+
+----
+
+Course-description: 
+
+Cats are an important part of our lives. Whether you hate them or love them this course explains cat behaviour and understanding of feline friends
+
+Please read through the material below and then take the test.
+
+----
+
+Module-items: 
+
+- 
+  modules_select: "23"
+- 
+  modules_select: "27"
+- 
+  modules_select: "28"
+- 
+  modules_select: "34"
+
+----
+
+Is-a-feature-course: 1

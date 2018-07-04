@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="29px" height="26px" viewBox="0 0 29 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-university - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.2%" y="-12.5%" width="104.4%" height="135.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Top-Bar/Small" transform="translate(-245.000000, -9.000000)" fill="#FFFFFF">
+            <g id="Top-Bar" filter="url(#filter-1)">
+                <g id="Stacked-Group" transform="translate(184.000000, 10.000000)">
+                    <path d="M75.5,1 L86,6.203125 L81.6875,9.015625 L75.5,13 L68,8.21875 L68,17.5 L66.5,16.75 L66.5,7.234375 L65,6.25 L75.5,1 Z M81.78125,10 L82.25,13.84375 C82.1562495,13.9062503 81.7734409,14.1796851 81.1015625,14.6640625 C80.4296841,15.1484399 79.7734407,15.6249977 79.1328125,16.09375 C78.4921843,16.5625023 77.8125036,17.0781222 77.09375,17.640625 C76.3749964,18.2031278 75.8437517,18.6562483 75.5,19 C75.1562483,18.6562483 74.6250036,18.2031278 73.90625,17.640625 C73.1874964,17.0781222 72.5078157,16.5625023 71.8671875,16.09375 C71.2265593,15.6249977 70.5703159,15.1484399 69.8984375,14.6640625 C69.2265591,14.1796851 68.8437505,13.9062503 68.75,13.84375 L69.171875,10 L75.5,14.125 L81.78125,10 Z" id="ion-university---Ionicons"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

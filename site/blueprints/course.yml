@@ -1,0 +1,71 @@
+title: Course
+icon: book
+options:
+  preview: parent
+  template: false
+  url: false
+pages: false
+files: true
+  sanitize: true
+  sortable: true
+  size: 8000000
+  width: 4000
+  height: 3000
+fields:
+
+  # PAGE METADATA TAB
+  # =================================================
+  tab1:
+    label: Page Metadata
+    type: tabs
+
+  seo:
+    type: seo      
+    help: >
+      Click the title to change the page title. Click the description to change the page description.
+
+  mainImage:
+    label: Main Image
+    type: image
+    required: true
+    help: >
+      Image used by search engines and social media sites when previewing this page.
+      Ideal image size is 1200(w)x630(h)pixels - larger images will be resized and cropped automatically.  
+
+  keywords:
+    label: Keywords
+    type: tags
+
+  # COURSE DATA TAB
+  # =================================================
+  tab2:
+    label: Course Data
+    type: tabs
+
+  title:
+    label: Course Title
+    type: title
+    required: true
+
+  is_a_feature_course:
+    label: Featured course
+    type: checkbox
+    text: Is a featured course
+    help: >
+      Tick to feature this course in the course slideshows
+
+  course_description:
+    label: Course Description
+    type: textarea
+
+  module_items: 
+    label: Modules
+    type: snippetfield
+    snippet: course/moduleitem
+    style: items
+    
+    fields:
+        modules_select:
+            label: Select Modules
+            type: modselect
+

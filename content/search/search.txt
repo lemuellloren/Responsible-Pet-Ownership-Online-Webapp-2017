@@ -1,0 +1,25 @@
+Seo: 
+
+-
+  seo-title: "Penrith Council | Responsible Pet Owner Search"
+  seo-description: "Search results for Penrith Council's Responsible Pet Owner Online website."
+
+----
+
+Title: Search
+
+----
+
+Search-result-title: Search Results
+
+----
+
+Search-result-query: search result found.
+
+----
+
+No-result: No result found.
+
+----
+
+Many-result: search results found.

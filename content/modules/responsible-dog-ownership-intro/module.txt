@@ -1,0 +1,113 @@
+Title: Responsible Dog Ownership Intro
+
+----
+
+Text: 
+
+As a dog owner, you have a responsibility to your dog and the community to ensure your dog is housed, managed and kept responsibly. Irresponsible ownership can jeopardise the safety of the animal and the community if not handled, trained, socialised and housed correctly.
+
+The information in this module is designed to help you understand how to house and manage your pets, as well as understand dog behaviours. 
+
+##  Correct housing and management of dogs.
+You need to consider the following things before buying a dog:
+
+(image: 20170422_145115-2.jpg)
+
+
+##Choosing a breed/type
+You need to choose a breed/type that is suitable to your lifestyle and circumstances. When selecting a new dog make sure you think about:
+•	The size of the adult dog
+•	Temperament of the breed
+•	Known breed problems e.g. breed-associated genetic disorders that may develop later in life (you should ensure the dog’s parents have been tested for such disorders where possible)
+•	Exercise requirements (this often corresponds to dog 'type' rather than size – e.g. hunting or working breeds generally have greater exercise requirements regardless of size)
+•	Activity level
+•	Grooming requirements
+•	Ease of training and skills of owner/ handler
+•	Dog type (e.g. working, guard, retriever etc.)
+•	Cost of care and feeding
+
+
+
+
+(image: 20171016_185933-2.jpg)
+
+## Identification and registration
+You must also comply with the correct forms of identification and registration of the animal, as stated in the Companion Animals Act, 1998. In NSW all dogs (unless exempt) must be microchipped by 12 weeks of age or before being sold or given away, whichever happens first. All dogs must be registered by six months of age (unless exempt). The registration fee is a once-only payment, which covers the dog for its lifetime in NSW, regardless of any changes in ownership. 
+
+Find out which dogs qualify as exempt 
+(link: https://www.olg.nsw.gov.au/content/exemptions-microchipping-and-lifetime-registration-requirement-cats-and-dogs-nsw popup: yes)
+
+## Housing your dog
+When buying a dog you must also be able to provide them with an adequate living space, which includes a weatherproof sleeping area and shelter from sun, wind and rain. The dog must also be able to move around freely, and urinate and defecate away from the sleeping and eating areas. If you’re housing more than one dog in the one area they must each have their own food bowl and sleeping area.
+
+The area your dog is housed in must have secure fencing that they cannot get over, under or through. Your dog must be kept in the property at all times, unless under the effective control of the owner or handler (i.e. on a lead).
+
+
+(image: picture-041.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    What needs to be considered before
+    purchasing a dog?
+  choice_1: >
+    A breed suitable to your lifestyle and
+    circumstances
+  choice_2: The size of the dog when fully grown
+  choice_3: Costs of care and feeding
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    All dogs must be lifetime registered in
+    NSW by the age of 6months?
+  choice_1: "No, they don't need to be registered"
+  choice_2: Yes, they must be registered by 6 months
+  choice_3: >
+    No, they do not have to be registered
+    until they are 1 year old
+  choice_4: "No, they don't have to be registered until they are desexed"
+  answer: "2"
+- 
+  question: >
+    A dog must be confined to the property
+    at all times?
+  choice_1: No, they are allowed to roam
+  choice_2: >
+    Yes, unless their owner is with them
+    then they can run around
+  choice_3: >
+    Yes, unless the dog is on lead then it
+    can leave the property with its owner
+  choice_4: "Only if they don't know their way home"
+  answer: "3"
+- 
+  question: >
+    What can happen if the dog is caught by
+    a ranger/animal services officer?
+  choice_1: Impounded at a pound
+  choice_2: >
+    Return to owner if microchip details are
+    up to date.
+  choice_3: Infringement penalty can be issued
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    Can dogs develop behavioural
+    issues/problems based on their
+    surroundings?
+  choice_1: No, they just sleep all day
+  choice_2: >
+    Yes, if they do not have enough mental
+    and physical stimulation
+  choice_3: Yes, but only certain breeds
+  choice_4: Dogs do not have behavioural issues
+  answer: "2"

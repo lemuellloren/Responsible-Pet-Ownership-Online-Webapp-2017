@@ -1,0 +1,130 @@
+@import 'base';
+
+    // STYLES
+    /* HERO BANNER STYLES */
+
+    /* HERO BANNER STYLES */
+
+    section#search-section {
+        padding-top: 170px;
+        padding-bottom: 80px;
+        height: auto;
+        
+        @media (max-width: $width-480) and (min-height: 481px) and (orientation: portrait){
+            padding-top: 100px;
+            padding-bottom: 30px;
+            height: 100vh;
+          .row{
+            width: 100%;
+            height: 80vh;
+            position: relative;
+        }
+    }
+    .search-logo {
+        @include width-480 {
+            text-align: left;
+        }
+        .penrithLogo {
+            padding-left: 30px;
+        }
+    }
+    .orangeHeading {
+        line-height: 1;
+    }
+    .searchArticle {
+        h1 {
+            @include width-640 {
+                font-size: 24px;
+            }
+            line-height: 1.2;
+            margin-bottom: 0;
+        }
+        h2 {
+            color: $SecColor;
+            font-size: 24px !important;
+            line-height: 1.2;
+            @include width-640 {
+                color: $SecColor;
+                font-size: 24px !important;
+            }
+        }        
+        padding: 30px 40px 0px 30px;
+        @include width-640 {
+            padding: 30px 40px 20px 30px;
+        }
+
+        a.btnOne.radial.contact { margin-top: 30px; }
+    }
+    .searchButton {
+        padding: 20px;
+        text-align: center;
+        @media (max-width: $width-480) and (min-height: 481px) and (orientation: portrait){
+            //bottom: 0;
+            //left: 0;
+            //position: absolute;
+        }
+        @include width-768 {
+            text-align: left;
+        }
+        .btnThree {
+            @include width-768 {
+                margin-left: 100px;
+            }
+        }
+        .btnOne.radial {
+            margin: 0;
+            @include width-768 {
+                margin-left: 100px;
+            }
+        }
+    }
+    h1.search-title {
+        color: $SecColor;
+        @include width-320 {
+            padding-bottom: 25px;
+            line-height: 1;
+        }
+    }
+}
+#choose-pet div.modal-header {
+    background: #F26522;
+    padding: 5px 5px 5px 15px;
+}
+
+#choose-pet {
+    overflow: visible !important;
+    min-height: auto;
+    height: auto;
+    width: 503px;
+    right: 0;
+    margin: 0 auto;
+}
+
+#choose-pet div.modal-header h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin: 0;
+}
+
+#choose-pet button.btnOne {
+    padding: 0px !important;
+    height: 45px;
+}
+
+#courseListing-section {
+    .section-boxSectionTitle3 {
+        padding: 15px;
+        padding-left: 15px;
+    }
+    .section-boxSectionTitle4 {
+        padding: 15px;
+        padding-left: 15px;
+    }
+}
+
+section#courseListing-section a:hover .section-boxSectionTitle4 {
+    background: $warmYellowHover !important;
+}
+
+

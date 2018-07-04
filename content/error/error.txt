@@ -1,0 +1,37 @@
+Title: Error
+
+----
+
+Text: 
+
+----
+
+Description: adfalk
+
+----
+
+Keywords: error page,404 not found
+
+----
+
+Mainimage: pets6.jpg
+
+----
+
+Error-message: 
+
+Did you type the page's address correctly in your browser? If you think you found an error or bug in our site, please send us a message.
+
+In the meantime, head over to our home page, and browser through our site!
+
+----
+
+Error-header: Ooops we cannot find the page you're looking for.
+
+----
+
+Seo: 
+
+-
+  seo-title: "Error Page"
+  seo-description: "Did you type the page's address correctly in your browser"

@@ -1,0 +1,44 @@
+Tab1: 
+
+----
+
+Seo: 
+
+----
+
+Mainimage: img_20171004_185047_918.jpg
+
+----
+
+Keywords: dog owner,dangerous dog,menacing dog,restricted breed dog,responsible dog,dog attack
+
+----
+
+Tab2: 
+
+----
+
+Title: Dangerous, Menacing & Restricted Dogs
+
+----
+
+Is-a-feature-course: 1
+
+----
+
+Course-description: 
+
+Learn what it means to own a dog that has been declared a dangerous dog, menacing dog, or a restricted breed dog.
+
+Please read through the material below and then take the test.
+
+----
+
+Module-items: 
+
+- 
+  modules_select: "38"
+- 
+  modules_select: "39"
+- 
+  modules_select: "40"

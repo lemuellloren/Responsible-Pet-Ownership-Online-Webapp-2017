@@ -1,0 +1,745 @@
+Title: Responsible Pet Owner Online
+
+----
+
+Text: 
+
+----
+
+Course-title-home: Our courses
+
+----
+
+Course-title-course: Featured courses
+
+----
+
+Course-title-listing: Other courses
+
+----
+
+Viewcourse-button-text: 
+
+----
+
+Enrollnow-button-text: 
+
+----
+
+Promo-title: Check out our promo
+
+----
+
+Promo-items: 
+
+- 
+  promo_title: Cuddle Clones
+  promo_inset: Promo
+  promo_description: >
+    Want a custom plush stuffed animal that
+    looks exactly like your pet? Cuddle
+    Clones makes one-of-a-kind keepsakes
+    that will make you do a double take!
+    Plus, we’ve teamed up with this great
+    company to bring you our exclusive
+    Cuddle Clones promo code!
+  promo_image: cuddle-clones-promo-code-cover-01.jpg
+  btntxt_learnmore: GET Cuddle
+  btntxt_learnmore_url: http://youtube.com
+  btntxt_download: download
+  downloadable_file: certificate-7.pdf
+- 
+  promo_title: Pet Food
+  promo_inset: Discount
+  promo_description: >
+    Quisque lectus nisi, venenatis non nisl
+    eget, bibendum feugiat magna. Aliquam
+    dolor diam, commodo sed tellus vel,
+    ultricies bibendum tellus. Sed nisi
+    felis, varius eu sem vel, efficitur
+    dapibus justo. Quisque orci odio,
+    lobortis id diam a, dignissim rutrum
+    lacus. Sed venenatis, nunc vitae
+    malesuada consectetur, eros nisi semper
+    quam, eget tempus dui quam eu augue. Ut
+    sagittis vel massa vitae feugiat. Mauris
+    fringilla justo felis, ut pretium nisi
+    facilisis sit amet. Suspendisse eu nisi
+    odio.
+  promo_image: promo1.jpg
+  btntxt_learnmore: GET Discount
+  btntxt_learnmore_url: http://google.com
+  btntxt_download: Download
+  downloadable_file: certificate-8.pdf
+
+----
+
+Btntxt-learnmore: Visit Page
+
+----
+
+Btntxt-download: Download
+
+----
+
+Testimonial-title: Testimonials
+
+----
+
+Testimonial-items: 
+
+- 
+  author_name: John Smith
+  short_address: Ilio, Singapore
+  author_image: tutor-8.jpg
+  testimonial: Excellent A++
+- 
+  author_name: Tina Moran
+  short_address: Penrith, AU
+  author_image: 1_widget_john-doe.jpg
+  testimonial: Superb
+- 
+  author_name: John Smith
+  short_address: Ilio, Singapore
+  author_image: 1_widget_john-doe.jpg
+  testimonial: dsfsdfsdf test
+- 
+  author_name: John Smith
+  short_address: Ilio, Singapore
+  author_image: testimonial-pic.jpg
+  testimonial: dsfsdfsdf
+- 
+  author_name: aw
+  short_address: wa
+  author_image: 1_widget_john-doe.jpg
+  testimonial: wawe
+
+----
+
+Contact-title: Contact
+
+----
+
+Cta-text: Questions? Suggestions? Feedback? Let us know!
+
+----
+
+Cta-button-text: Contact Us
+
+----
+
+Partners-title: Partners & supporters
+
+----
+
+Partner-items: 
+
+- 
+  partner_name: test
+  partner_link: http://example.com
+  partner_image: partner1.png
+- 
+  partner_name: test2
+  partner_link: http://example.com
+  partner_image: partner2.png
+- 
+  partner_name: test3
+  partner_link: http://example.com
+  partner_image: partner3.png
+- 
+  partner_name: test4
+  partner_link: http://example.com
+  partner_image: partner4.png
+- 
+  partner_name: test5
+  partner_link: http://example.com
+  partner_image: partner1.png
+
+----
+
+Phone: +61.2.88835890
+
+----
+
+Success-msg: Your message has been sent successfully - thank you!
+
+----
+
+Email-items: 
+
+- 
+  subject: I have a course question
+  reciever_email: beth.wade@penrith.city
+- 
+  subject: General enquires for Animal Services
+  reciever_email: council@penrith.city
+
+----
+
+Reset-button-text: reset
+
+----
+
+Send-button-text: send
+
+----
+
+Contact-modal-text: Contact
+
+----
+
+Changepass-button-text: Change password
+
+----
+
+Editprofile-button-text: Edit profile
+
+----
+
+Addpet-button-text: Add pet
+
+----
+
+Deleteimage-button-text: Delete image
+
+----
+
+Deleteaccount-button-text: Delete account button
+
+----
+
+Deletepet-button-text: Delete pet
+
+----
+
+Changepass-modal-text: Change password
+
+----
+
+Editprofile-modal-text: Edit profile
+
+----
+
+Column1: 
+
+<ul class="site-footer-bottom">
+                    <h5><small>OUR OTHER SITES</small></h5>
+                    <li><a href="http://example.com/">Discover Penrith</a></li>
+                    <li><a href="http://example.com/">Riverside Theatres</a></li>
+                    <li><a href="http://example.com/">Penrith Galleries</a></li>
+                    <li><a href="http://example.com/">Tourism</a></li>
+                    <li><a href="http://example.com/">Library</a></li>
+                </ul>
+
+----
+
+Column2: 
+
+<ul class="site-footer-bottom">
+                    <h5><small>USEFUL LINKS</small></h5>
+                    <li><a href="http://example.com/">Animal Welfare League</a></li>
+                    <li><a href="http://example.com/">RSPCA</a></li>
+                    <li><a href="http://example.com/">Lorem Ipsum</a></li>
+                    <li><a href="http://example.com/">Dolor Sit Amet</a></li>
+                    <li><a href="http://example.com/">Consectetuer</a></li>
+                </ul>
+
+----
+
+Terms-link: Terms and Conditions
+
+----
+
+Terms-text: 
+
+## Disclaimer
+We work hard to make sure the information on our website is current and accurate. As the website is a publication, information is constantly changing and may become out of date or inaccurate. In circumstances where loss, damage or injury is possible, please make specific enquiries of Council to ensure you have accurate data. Council denies liability for any loss, damage or injury resulting from any person relying on information obtained by or through this website.
+Copyright of materials on this website resides with Council unless otherwise stated. Apart from any use permitted under the Copyright Act 1968, no part of such content may be reproduced, modified, adapted, published or used in any way for any commercial purpose whatsoever.
+
+----
+
+Privacy-link: Privacy Policy
+
+----
+
+Privacy-text: 
+
+## Privacy
+We respect your privacy, and any personal information submitted to Penrith City Council will be dealt with according to the Privacy and Personal Information Protection Act (1998), Government Information Public Access Act (2009) and the Local Government Act (1993). Council will not use personal information for a purpose other than that for which it is collected.
+
+(link: https://www.penrithcity.nsw.gov.au/Council/Our-Organisation/Access-to-information/ text: See Access to Information popup: yes)
+
+----
+
+Footer-text: © 2017, Penrith Animal Services - All Rights Reserved
+
+----
+
+Share-facebook: 1
+
+----
+
+Share-linkedin: 1
+
+----
+
+Share-twitter: 1
+
+----
+
+Share-pinterest: 1
+
+----
+
+Share-tumblr: 1
+
+----
+
+Share-reddit: 1
+
+----
+
+Share-googleplus: 1
+
+----
+
+Visit-facebook: https://www.facebook.com/penrith.city.council
+
+----
+
+Visit-twitter: https://twitter.com/penrithcouncil
+
+----
+
+Visit-youtube: https://www.youtube.com/channel/UCa2LSQYd_pPi86fRkqLIQ-g
+
+----
+
+Visit-instagram: http://instagram.com/penrithcitycouncil
+
+----
+
+Visit-pinterest: 
+
+----
+
+Analytics: 
+
+----
+
+Signin-button-text: Sign In
+
+----
+
+Createaccount-button-text: Create account
+
+----
+
+Dbhost: localhost
+
+----
+
+Head-head-dbusername: 
+
+root
+=======
+Dbusername: root
+>>>>>>> 6289c98c6551ee76b2b7a112421bb42b69c49dca
+
+----
+
+Dbpassword: 
+
+----
+
+Dbname: rpo_db
+
+----
+
+Contact-modal-heading: Your question and suggestion are always welcome.
+
+----
+
+Contact-modalbtn-reset: Reset
+
+----
+
+Contact-modalbtn-send: Send
+
+----
+
+Contact-privacy-text: We respect your privacy and use your information as per our
+
+----
+
+Contact-modalhead-text: Your questions and suggestions mean a lot to us!
+
+----
+
+Share-email: 1
+
+----
+
+Changepass-modal-title: Change password
+
+----
+
+Editprofile-modal-title: Edit profile
+
+----
+
+Signin-modal-title: Sign In
+
+----
+
+Signin-modal-enterinfo: Please enter information below
+
+----
+
+Signin-modal-forgotpass: Forgot Password
+
+----
+
+Signin-modal-noaccount: Don't have an account yet? Click the button below to sign up!
+
+----
+
+Topbar-items: 
+
+- 
+  topbar_name: Track a DA
+  topbar_link: http://google.com
+  category: online_services
+  sss: online_services
+- 
+  topbar_name: eCertificates
+  topbar_link: http://yahoo.com
+  category: online_services
+  sss: online_services
+- 
+  topbar_name: Visit Penrith
+  topbar_link: http://facevook.com
+  category: other_sites
+  sss: other_sites
+- 
+  topbar_name: Visit Google
+  topbar_link: http://google.com
+  category: other_sites
+  sss: other_sites
+- 
+  topbar_name: Have your say
+  topbar_link: '#'
+  sss: keep_up_to_date
+- 
+  topbar_name: News
+  topbar_link: http://youtube.com
+  sss: keep_up_to_date
+
+----
+
+Menuitems: 
+
+- 
+  menu_name: Track a DA
+  menu_link: >
+    http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Common/Common/Terms.aspx
+  categ: online_services
+  category: menu_1
+- 
+  menu_name: eCertificates
+  menu_link: >
+    http://eprop.penrithcity.nsw.gov.au/eProperty
+  categ: online_services
+  category: menu_1
+- 
+  menu_name: Available jobs
+  menu_link: >
+    https://www.ezisuite.net/ezijob/pcc/hrregistry/
+  category: menu_1
+- 
+  menu_name: Library catalogue
+  menu_link: https://penrithcity.spydus.com/
+  category: menu_1
+- 
+  menu_name: Pay your rates
+  menu_link: >
+    https://www.penrithcity.nsw.gov.au/Council/Council-Business/Rates-and-payments/
+  category: menu_1
+- 
+  menu_name: Community Services Directory
+  menu_link: 'http://www.datadiction.com.au/bin/dd.dll/Lincs?xps&MBR=PEN'
+  category: menu_1
+- 
+  menu_name: Visit Penrith
+  menu_link: https://www.visitpenrith.com.au/
+  category: menu_2
+- 
+  menu_name: Your Say Penrith
+  menu_link: >
+    http://yoursaypenrith.com.au/our-future-penrith
+  category: menu_2
+- 
+  menu_name: Penrith is Here
+  menu_link: http://www.penrithishere.com.au/
+  category: menu_2
+- 
+  menu_name: Penrith New West
+  menu_link: >
+    https://www.penrithcity.nsw.gov.au/Building-and-Development/Penrith-New-West/
+  category: menu_2
+- 
+  menu_name: Penrith Regional Gallery
+  menu_link: http://www.penrithregionalgallery.org/
+  category: menu_2
+- 
+  menu_name: Performing Arts Centre
+  menu_link: http://thejoan.com.au/
+  category: menu_2
+- 
+  menu_name: Regatta Centre
+  menu_link: http://www.dsr.nsw.gov.au/regattacentre/
+  category: menu_2
+- 
+  menu_name: Have your say
+  menu_link: >
+    https://www.penrithcity.nsw.gov.au/Contact-Us/Have-your-say/
+  category: menu_3
+- 
+  menu_name: News
+  menu_link: >
+    https://www.penrithcity.nsw.gov.au/news/newslisting/
+  category: menu_3
+- 
+  menu_name: Newsletters
+  menu_link: >
+    https://www.penrithcity.nsw.gov.au/downloads/newsletters.aspx
+  category: menu_3
+- 
+  menu_name: Calendar
+  menu_link: >
+    https://www.penrithcity.nsw.gov.au/events/calendar/
+  category: calendar
+
+----
+
+Menu-1: aasdasd
+
+----
+
+Menu-2: Other Sites
+
+----
+
+Menu-3: Calendar
+
+----
+
+Menu-4: 
+
+----
+
+Menu1: 
+
+- 
+  menu1_name: Track a DA
+  menu1_link: >
+    http://bizsearch.penrithcity.nsw.gov.au/ePlanning/Common/Common/Terms.aspx
+- 
+  menu1_name: eCertificates
+  menu1_link: >
+    http://eprop.penrithcity.nsw.gov.au/eProperty
+- 
+  menu1_name: Available jobs
+  menu1_link: >
+    https://www.ezisuite.net/ezijob/pcc/hrregistry/
+- 
+  menu1_name: Library catalogue
+  menu1_link: https://penrithcity.spydus.com/
+- 
+  menu1_name: Pay your rates
+  menu1_link: >
+    https://www.penrithcity.nsw.gov.au/Council/Council-Business/Rates-and-payments/
+
+----
+
+Menu2: 
+
+- 
+  menu2_name: Visit Penrith
+  menu2_link: https://www.visitpenrith.com.au/
+- 
+  menu2_name: Your Say Penrith
+  menu2_link: >
+    http://yoursaypenrith.com.au/our-future-penrith
+- 
+  menu2_name: Penrith is Here
+  menu2_link: http://www.penrithishere.com.au/
+- 
+  menu2_name: Penrith New West
+  menu2_link: >
+    https://www.penrithcity.nsw.gov.au/Building-and-Development/Penrith-New-West/
+- 
+  menu2_name: Penrith Regional Gallery
+  menu2_link: http://www.penrithregionalgallery.org/
+- 
+  menu2_name: Performing Arts Centre
+  menu2_link: http://thejoan.com.au/
+- 
+  menu2_name: Regatta Centre
+  menu2_link: http://www.dsr.nsw.gov.au/regattacentre/
+
+----
+
+Menu3: Keep up to date
+
+----
+
+Menu4: Calender
+
+----
+
+Menu4-link: https://www.penrithcity.nsw.gov.au/events/calendar/
+
+----
+
+Btntxt-learnmore-url: http://google.com
+
+----
+
+Downloadable-file: certificate-7.pdf
+
+----
+
+Menu1-name: Online Services
+
+----
+
+Menu2-name: Other Sites
+
+----
+
+My-course-text: My Courses
+
+----
+
+Edit-information-text: Edit Information
+
+----
+
+Change-image-text: Upload Image
+
+----
+
+Website-logo: logo.svg
+
+----
+
+Signatory: Greg McCarthy
+
+----
+
+Position: Manager, Environmental Health & Compliance
+
+----
+
+Signature-image: greg-signaturev2.png
+
+----
+
+Dbusername: root
+
+----
+
+Name-placeholder: Your Name
+
+----
+
+Email-placeholder: Your Email
+
+----
+
+Phone-placeholder: Your Phone
+
+----
+
+Subject-placeholder: Select Subject
+
+----
+
+Message-placeholder: Your Message
+
+----
+
+Signinplaceholderemail: email
+
+----
+
+Signinplaceholderpasss: password
+
+----
+
+Createaccount-modal-title: Create account
+
+----
+
+Createaccount-modal-enterinfo: Please enter information below
+
+----
+
+Fname-placeholder: first name
+
+----
+
+Lname-placeholder: last name
+
+----
+
+C-email-placeholder: email
+
+----
+
+Cpassword-placeholder: password
+
+----
+
+Cc-password-placeholder: confirm password
+
+----
+
+Cpostcode-placeholder: post code
+
+----
+
+Petname-placeholder: pet name
+
+----
+
+Petname-message: If you have more than one pet, you can enter all their names once you create your account!
+
+----
+
+Createaccountbutton: Create account
+
+----
+
+Termandconditions-agreement-text: By clicking the ‘Create Account’ button, you agree to our
+
+----
+
+Footer-logo: rpo-logo-footer.svg
+
+----
+
+Show-partners: 1
+
+----
+
+Show-testimonials: 1
+
+----
+
+Share-text: Share us on
+
+----
+
+Visit-text: Follow us on

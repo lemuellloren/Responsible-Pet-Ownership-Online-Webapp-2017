@@ -1,0 +1,177 @@
+Title: Account
+
+----
+
+Description: Penrith Animal Services
+
+----
+
+Keywords: Penrith Animal Services
+
+----
+
+Mainimage: noobie.jpg
+
+----
+
+Seo: 
+
+-
+  seo-title: "My Accounts"
+  seo-description: "Known as the adventure capital of NSW, Penrith features a stellar line up of fun things to do and events to experience for your next"
+
+----
+
+Signin-button-text: Sign In
+
+----
+
+Createaccount-button-text: Create an Account
+
+----
+
+Changepass-button-text: Change Password
+
+----
+
+Editprofile-button-text: Edit Profile
+
+----
+
+Addpet-button-text: Add Pet
+
+----
+
+Edit-information-text: Edit information
+
+----
+
+Change-image-text: Change Image
+
+----
+
+Deletepet-button-text: Delete Pet
+
+----
+
+Changepass-modal-title: Change Password
+
+----
+
+Editprofile-modal-title: Edit Profile
+
+----
+
+Signin-modal-title: Sign In
+
+----
+
+Signin-modal-enterinfo: Please enter information below
+
+----
+
+Signin-modal-forgotpass: Forgot Password
+
+----
+
+Signin-modal-noaccount: Don't have an account yet? Click the button below to sign up!
+
+----
+
+My-course-text: My Courses
+
+----
+
+Upload-image-text: Upload Image
+
+----
+
+Delete-image-text: Delete Image
+
+----
+
+Current-password-text: Current Password
+
+----
+
+New-password-text: New Password
+
+----
+
+Confirm-password-text: Confirm Password
+
+----
+
+Change-password-submit-button: Submit
+
+----
+
+Error-msg-if-password-not-matched: * 'New Password' and 'Confirm Password' should match.
+
+----
+
+Error-msg-if-password-is-short: * Password should be 8 or more characters long.
+
+----
+
+Delete-account-text: Delete Account
+
+----
+
+Edit-profile-save-button: Save
+
+----
+
+Signinplaceholderemail: Email
+
+----
+
+Signinplaceholderpasss: Password
+
+----
+
+Createaccount-modal-title: Create Account
+
+----
+
+Createaccount-modal-enterinfo: Please enter information below
+
+----
+
+Fname-placeholder: Your First Name
+
+----
+
+Lname-placeholder: Your Last Name
+
+----
+
+C-email-placeholder: Your Email
+
+----
+
+Cpassword-placeholder: Password
+
+----
+
+Cc-password-placeholder: Confirm Password
+
+----
+
+Cpostcode-placeholder: Post Code
+
+----
+
+Petname-placeholder: Pet Name
+
+----
+
+Petname-message: Do you have more than one pet? Enter all their names after you create your account!
+
+----
+
+Createaccountbutton: Create Account
+
+----
+
+Termandconditions-agreement-text: By clicking the 'Create Account' button, you agree to our

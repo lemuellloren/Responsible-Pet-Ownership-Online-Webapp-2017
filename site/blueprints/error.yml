@@ -1,0 +1,46 @@
+title: Error
+icon: bug
+pages: false
+files:
+  sanitize: true
+  sortable: true
+  size: 8000000
+  width: 4000
+  height: 3000
+fields:
+
+  # PAGE METADATA TAB
+  # =================================================
+  tab1: 
+    label: Page Metadata
+    type: tabs
+  seo: 
+    type: seo
+    help: >
+      Click the title to change the page title. Click the description to change the page description.
+  mainImage:
+      label: Main Image 
+      type: image
+      required: true
+      help: >
+        Image used by search engines and social media sites when previewing this page.
+        Ideal image size is 1200(w)x630(h) pixels - larger images will be resized and cropped automatically.
+  keywords:
+    label: Keywords
+    type:  tags
+
+  # ERROR PAGE TAB
+  # =================================================
+  tab2: 
+    label: Error Page
+    type: tabs
+  error_header: 
+    label: Heading Text
+    type: text
+    required: true 
+  error_message: 
+    label: Error Message
+    type: textarea
+    required: true
+    help: >
+        Put site error message here. You can also add download links and images.

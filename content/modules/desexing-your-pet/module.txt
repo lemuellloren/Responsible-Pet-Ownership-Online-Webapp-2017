@@ -1,0 +1,151 @@
+Title: Desexing: What Is It & Why Do It?
+
+----
+
+Text: 
+
+## What is desexing?
+Desexing is the removal of the male or female reproductive organs from a dog or cat by way of surgery performed by a Veterinarian.  The surgery is done under general anesthetic so your pet won’t feel any pain. 
+
+
+## How long is the recovery from the operation?
+Most pets recover quickly after the operation and with pain relief drugs prescribed by your Vet, your pet should make a speedy recovery. Some mild discomfort may be experienced by your pet immediately following the operation.
+Depending on the size and age of your pet they may stay at the surgery overnight, however most pets are ready to come home on the day of the operation. 
+
+(image: desex.jpg)
+
+## How will desexing benefit my pet?
+Desexing can help to reduce the risk of cancer and diseases of the reproductive organs. It can assist to relieve frustration and anxiety in male and female dogs. Desexed pets are usually less likely to roam, reducing the risk of being involved in fights with other animals or traffic accidents. 
+
+## What is the cost of desexing - and the cost of not desexing?
+The cost varies from Vet to Vet. You can save over $100 on the cost of lifetime registration of your pet if it is desexed. You may also save money on Vet bills as your pet is less likely to roam, reducing the risk of being involved in car accidents and fights.  
+
+If your pet is desexed you won’t need to feed, worm, flea, vaccinate, microchip and advertise the young, which can be a costly exercise. Pregnant pets may need a caesarian to birth pups/kittens this can be common and the cost of surgery is high.
+
+The community bares the cost of caring for stray and unwanted animals. Desexing reduces numbers of stray and unwanted animals in pounds and shelters and the ethical cost of the illegal and inhumane dumping of pets.      
+
+If you do consider breeding your pet you should discuss with your Vet the necessary health testing that should be performed on both parents prior to breeding. This is to help eliminate the possibility of producing animals with crippling and debilitating genetic diseases that are common in all animals.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: What is desexing?
+  choice_1: >
+    the practice of giving a dog or cat
+    contraceptive medication
+  choice_2: "the removal of a dog or cat's reproductive organs"
+  choice_3: all of the above
+  choice_4: none of the above
+  answer: "2"
+- 
+  question: Desexing is...
+  choice_1: >
+    a surgery done under general anaesthetic
+    by a Veterinarian
+  choice_2: >
+    a surgery done with local anaesthetic by
+    qualified animal handlers and trainers
+  choice_3: >
+    a painful procedure that traumatises the
+    animal and is best avoided
+  choice_4: >
+    a simple procedure, that all pet owners
+    should know how to do themselves
+  answer: "1"
+- 
+  question: >
+    How long does the desexing procedure
+    take?
+  choice_1: >
+    Done in about 10 minutes at the clinic,
+    and your pet can go home immediately.
+  choice_2: >
+    A quick procedure, with the pet
+    returning home the same day, but on
+    occasion being required to stay
+    overnight.
+  choice_3: >
+    A long procedure, with the pet retuning
+    home within 3 to 4 days.
+  choice_4: >
+    A quick but painful procedure, with the
+    pet required to return to the Vet
+    multiple times in the following days.
+  answer: "2"
+- 
+  question: How much does the desexing surgery cost?
+  choice_1: >
+    The recommended charge is $990, but
+    there are additional charges for
+    post-surgery medication.
+  choice_2: >
+    The recommended charge is $990,
+    including anaesthetics and medication.
+  choice_3: >
+    The recommended charge varies from state
+    to state.
+  choice_4: The pricing varies from Vet to Vet.
+  answer: "4"
+- 
+  question: Recovery from the desexing operation...
+  choice_1: >
+    is usually quick, with minimal
+    discomfort for the pet, alleviated by
+    pain medication.
+  choice_2: >
+    can be long, depending on the age,
+    weight and level of fitness of the
+    animal.
+  choice_3: >
+    is usually quick, but requires some
+    extra care and rehabilitation exercises.
+  choice_4: >
+    can be long, requires some extra care
+    and rehabilitation exercises, and
+    medication.
+  answer: "1"
+- 
+  question: >
+    Desexing is highly recommended
+    because...
+  choice_1: >
+    it greatly reduces the cost of
+    registration.
+  choice_2: >
+    it reduces the number of stray animals
+    in pounds and shelters.
+  choice_3: >
+    it reduces the ethical cost of inhumane,
+    illegal dumping of unwanted animals.
+  choice_4: all of the above
+  answer: "4"
+- 
+  question: Are desexed animals cheaper to register?
+  choice_1: No, registration costs the same.
+  choice_2: Yes, registration is slightly cheaper.
+  choice_3: >
+    Yes, registration is more than $100
+    cheaper.
+  choice_4: >
+    Yes, registration of desexed animals is
+    free.
+  answer: "3"
+- 
+  question: Desexing can...
+  choice_1: >
+    help reduce the risk of cancer and
+    diseases of the digestive system.
+  choice_2: >
+    help reduce the risk of cancer and
+    diseases of the reproductive organs.
+  choice_3: >
+    help reduce the risk of cancer and
+    diseases of the central nervous system.
+  choice_4: all of the above
+  answer: "2"

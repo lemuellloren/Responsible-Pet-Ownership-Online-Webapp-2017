@@ -1,0 +1,24 @@
+title: Modules
+icon: file-text
+options: 
+  preview: false
+  status: false
+  url: false
+  delete: false
+  template: false
+pages: module
+files: false 
+fields: 
+  share_info:
+    label: 
+    type: info
+    text: >
+        To create a new module click the 'Add' button on the left sidebar.
+
+  checkbox_label:
+    label: Checkbox Text
+    type: text
+    placeholder: I completed this module
+    required: true
+    help: >
+      Text shown next to the checkbox the student can tick to mark a module as completed.

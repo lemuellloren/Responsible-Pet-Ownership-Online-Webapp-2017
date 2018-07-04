@@ -1,0 +1,432 @@
+@import 'base';
+// STYLES
+
+.show
+{
+  display: block;
+}
+
+.hidden
+{
+  display: none; 
+}
+
+.align-center
+{
+  text-align: center; 
+  margin: 20px auto;
+}
+
+.circle-profile
+{ 
+  background-color: $warmYellow;
+  border-radius: 50%;
+  width: 77px;
+  height: 77px;
+  border: 1px solid $warmYellow;
+  overflow: hidden;
+  img{ 
+   object-fit: cover;
+   // border-radius: 50%;
+   width: 80px;
+   height: 80px;
+ }
+}
+
+// input styles
+.inputfile, .inputfilepet {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
+
+.add-pet-actions{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+// update pet image
+
+#changeImagePets {
+  @include auto-top();
+  div.modal-header {
+    @include modal-header();
+  }
+  .close-button {
+    @include modal-close-button();
+  }
+  form {
+      //padding-bottom: 20px;
+      //border-bottom: 1px solid $SecColor;
+      .form-group {
+        @include field-style();
+      }
+      input {
+        border-radius: 3px;
+        @include softtransition;
+        height: 3rem;
+        &:hover {
+          border: 1px solid $mainColor;
+        }
+      }
+      button {
+        display: inline-block; //width: 134.16px;
+        width: auto;
+      }
+      div.button-align {
+        text-align: center;
+      }
+    }
+    .modal-footer{
+      button {
+        @include softtransition();
+        color: $mainColor;
+        font-size: 14px;
+        &:hover{
+          color: $deepRed;
+          background-color: $yellowRgba;
+        }
+      }
+    }
+    p {
+      font-size: 14px;
+      margin: 0.5rem 0;
+    }
+  }
+
+
+//add pet
+#addpet {
+  @include auto-top();
+  div.modal-header {
+    @include modal-header();
+  }
+  .close-button {
+    @include modal-close-button();
+  }
+  form {
+      //padding-bottom: 20px;
+      //border-bottom: 1px solid $SecColor;
+      .form-group {
+        @include field-style();
+      }
+      input {
+        border-radius: 3px;
+        @include softtransition;
+        height: 3rem;
+        &:hover {
+          border: 1px solid $mainColor;
+        }
+      }
+      button {
+        display: inline-block; //width: 134.16px;
+        width: auto;
+      }
+      div.button-align {
+        text-align: center;
+      }
+    }
+    .modal-footer{
+      button {
+        @include softtransition();
+        color: $mainColor;
+        font-size: 14px;
+        &:hover{
+          color: $deepRed;
+          background-color: $yellowRgba;
+        }
+      }
+    }
+    p {
+      font-size: 14px;
+      margin: 0.5rem 0;
+    }
+  }
+
+//edit pet
+#edit-pet {
+  @include auto-top();
+  div.modal-header {
+    @include modal-header();
+  }
+  .close-button {
+    @include modal-close-button();
+  }
+  form {
+      //padding-bottom: 20px;
+      //border-bottom: 1px solid $SecColor;
+      .form-group {
+        @include field-style();
+      }
+      input {
+        border-radius: 3px;
+        @include softtransition;
+        height: 3rem;
+        &:hover {
+          border: 1px solid $mainColor;
+        }
+      }
+      button {
+        display: inline-block; //width: 134.16px;
+        width: auto;
+      }
+      div.button-align {
+        text-align: center;
+      }
+    }
+    .modal-footer{
+      button {
+        @include softtransition();
+        color: $mainColor;
+        font-size: 14px;
+        &:hover{
+          color: $deepRed;
+          background-color: $yellowRgba;
+        }
+      }
+    }
+    p {
+      font-size: 14px;
+      margin: 0.5rem 0;
+    }
+  }
+
+
+//add information
+#edit-information {
+  @include auto-top();
+  div.modal-header {
+    @include modal-header();
+  }
+  .close-button {
+    @include modal-close-button();
+  }
+  form {
+      //padding-bottom: 20px;
+      //border-bottom: 1px solid $SecColor;
+      .form-group {
+        @include field-style();
+      }
+      input {
+        border-radius: 3px;
+        @include softtransition;
+        height: 3rem;
+        &:hover {
+          border: 1px solid $mainColor;
+        }
+      }
+      button {
+        display: inline-block; //width: 134.16px;
+        width: auto;
+      }
+      div.button-align {
+        text-align: center;
+      }
+    }
+    .modal-footer{
+      button {
+        @include softtransition();
+        color: $mainColor;
+        font-size: 14px;
+        &:hover{
+          color: $deepRed;
+          background-color: $yellowRgba;
+        }
+      }
+    }
+    p {
+      font-size: 14px;
+      margin: 0.5rem 0;
+    }
+  } 
+
+// end input styles
+.account{
+  padding-top: 100px;
+  .profile-name
+  {
+    padding: 0 10px 0 0 ;
+  }
+  .grid-x{
+    position: relative;
+    .cell{
+      position: relative;
+        //padding: 0;            
+        .align-left-div{
+          margin-bottom: 15px;        
+          .profile-name{
+            text-align: right;
+            h1{
+              margin: 0;
+              color: $mainColor;
+              margin: 15px 0 0 0;
+            }
+            p{
+              position: relative;
+              top: -5px;
+              margin: 0;
+            }
+          }
+          .pet-title{
+            text-align: right;
+            padding: 0 10px 0 0;
+            h1{
+              margin: 0;
+              color: $SecColor;
+              margin: 15px 0 0 0;
+            }
+          }
+        }
+      }
+      .button-position{
+        position: relative;
+        @include width-640{
+          height: auto
+        }
+        .footer-buttons{
+          margin: 20px 0 20px 0;
+          text-align: center;
+          @include width-640{
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            top: 45%;
+          }
+          button{
+            display: inline-block;
+            width: auto;
+            line-height: 1;
+            padding: 15px 17px;
+            height: auto;
+            margin-bottom: 10px;
+          }
+        }
+      }
+    }
+  }
+  #targetOuter{
+    .deletePetCont{
+      @media (max-width: 768px){
+        text-align: center !important;
+        width: 100%;
+        display: block;
+        #deletePet{
+          margin: 0px 0px 10px 0px !important;
+        }
+      }
+    }
+    .changeButton{
+     @media (max-width: 768px){
+      text-align: center !important;
+      width: 100%;
+      display: block;
+      #delete-petimage, .fileUpload{
+        margin: 0px 0px 10px 0px !important;
+      }
+    }
+  }
+}
+
+.fileUpload {
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+}
+.fileUpload input.upload {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+#uploadNewPet {
+  margin-top: -25px;
+  margin-bottom: -25px;
+  display: inline-block;
+  text-align: center;
+  display: none
+}
+
+@media print, screen and (min-width: 64em) {
+  #form-gr {
+    margin-left: -15px;
+    margin-right: -15px; 
+  } 
+  #form-gr-child {
+   padding-left: 1px;
+ }
+ #delete-account {
+  margin-right: 10px;
+  min-width: 150px;
+
+}
+#saveProfile {
+  display: block;
+  margin-left: 10px;
+  min-width: 150px;
+
+}
+#divdelete-account{
+  text-align: right;
+}
+#divsave-profile {
+  text-align: right;
+} 
+}
+
+@media screen and (max-width: 63.9375em) {
+  #form-gr {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  #form-gr-child {
+   padding-left: auto;
+ }
+ #delete-account {
+  min-width: 150px;
+
+}
+#saveProfileM {
+  min-width: 150px;
+
+}
+#divdelete-account{
+  text-align: left;
+}
+#divsave-profile {
+  text-align: right;
+} 
+}
+// notification alert style
+
+.alert-box{
+  margin-top: 15px;
+  button.close-button-alert{
+    top: 0 !important;
+    right: 4px !important;
+    position: absolute;
+    font-size: 24px;
+    color: orange;
+  }
+}
+#courseListing-section {
+    .section-boxSectionTitle3 {
+        padding: 15px;
+        padding-left: 15px;
+    }
+    .section-boxSectionTitle4 {
+        padding: 15px;
+        padding-left: 15px;
+    }
+}
+
+section#courseListing-section a:hover .section-boxSectionTitle4 {
+    background: $warmYellowHover !important;
+}

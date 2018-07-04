@@ -1,0 +1,49 @@
+Tab1: 
+
+----
+
+Seo: 
+
+-
+  seo-title: ""
+  seo-description: "Dog you have to microchip and register your pet? Learn all about microchipping and registration for your dogs and cats for owners living in NSW. "
+
+----
+
+Mainimage: microchip-and-dog.jpg
+
+----
+
+Keywords: dog registration nsw,cat registration nsw,dog microchipping nsw,cat microchipping nsw,dog registration penrith,cat registration penrith
+
+----
+
+Tab2: 
+
+----
+
+Title: Microchipping and Registration
+
+----
+
+Course-description: 
+
+Do you have to microchip your dog? Do you have to register your cat?
+Learn all about microchipping and registration for your Rover or Fluffy.
+
+Please read through the material below and then take the test.
+
+----
+
+Module-items: 
+
+- 
+  modules_select: "23"
+- 
+  modules_select: "24"
+- 
+  modules_select: "25"
+
+----
+
+Is-a-feature-course: 1

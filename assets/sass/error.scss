@@ -1,0 +1,9 @@
+@import 'base';
+// STYLES
+
+.error-container {
+    padding: 100px 30px 40px 30px;
+     @include width-640() {
+      padding: 130px 30px 40px 30px;
+    }
+}

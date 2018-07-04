@@ -1,0 +1,144 @@
+Title: Pets & Families
+
+----
+
+Text: 
+
+Pets are an important part of many Australian families. Pets can assist to improve the health of their families in so many ways as well as providing family enjoyment and unconditional love.
+
+A pet in the family especially in the case of dog, can help to improve the physical and mental health and fitness of the family. It is more likely that a dog owner will get out in the fresh air and walk their pet, this can assist to provide relaxation, family togetherness and an overall improved state of mind.
+Cat owners also can gain many benefits as the vibrations created from a cat purr has been linked to lowering stress levels in humans decreasing the symptoms of Dyspnoea, lessening the chance of a heart attack and even strengthening bones.          
+
+When considering a pet, it is really important to choose the companion best suited for your household and there are many factors to take into account,  such as the following:
+
+•	Age of your children
+•	Type of pet – Dog, Cat, Bird etc. as well as breeds/types
+•	Affordability of keeping the chosen pet initial purchase as well as financial outlay for the pets’ lifetime – veterinary expenses, feeding, training etc.    
+•	Time available for pet – lifestyle, working hours, etc 
+•	Adequate housing to keep pet, yard, enclosure, cage etc.  
+•	Training for your pet
+
+(image: saga-family.jpg)
+
+## Kids and pets
+Children should always have an adult present when interacting with pets to ensure the safety of the child and the pet. 
+
+Many dog related injuries caused by the family pet could have been avoided if adult supervision was provided. 
+
+Dogs should be left alone when they are eating, sleeping or sick. If a child interrupts a dog at these times, then dog may be startled, which can increase the risk of the dog biting. Prevent children from putting their face into a dogs face as this can be seen to the dog as a challenge. Teach children to pet dogs on the side of the animals’ back with gentle strokes and to not hit or pull at the dog.
+
+The only way a dog can communicate unhappy feelings is to growl, bark or nip, so if you allowing your child to harass them then there is a chance the dog may retaliate as it is the only way they can stop the child from hurting them.
+
+Children need guidance and supervision with cats too. They need to pet cats gently – if a toddler picks up a cat and starts to drag it around the floor, the cat is likely to lash out with its claws and possibly bite.    
+
+Substantial injuries caused by dog or cat bites and scratches should be seen to by a medical professional as they may get infected without treatment. Other animal diseases can also be transferred to humans and appropriate hygiene practices should be adopted when interacting with pets.     
+
+## Benefits of pets
+
+Pets can play a vital part in the growth and development of our children into caring well-adjusted adults.
+
+There is a wealth of research that shows there are many benefits to owning a pet – from improving our health and wellbeing, to aiding children’s development and even increasing our safety.
+
+As well as being a playmate and confidante, research shows that pets can aid in a child’s development. Being a pet owner can help a child develop social and nurturing skills, increase their empathy toward other people and animals, boost self-esteem, and even reduce loneliness, restlessness, boredom and depression in children and teenagers. 
+
+Studies of physical behaviours of Australian children has also shown that young children who have a family pet, especially a dog, took more family walks than those without a pet, and older children rated outdoor play with pets second only to playing with friends. Young teenage girls also reported that they felt safer walking the family dog, than walking alone. 
+
+Pets also reduce stress and children and adults alike. In fact, many companion animals are now being used as ‘therapy and assistance animals’. Therapy animals are taken into hospitals and aged care facilities and are used to cheer up patients and provide affection and comfort. When the patients’ spirits are high their general feeling of wellbeing is increased, which not only makes us feel better but also assists with healing. This also helps family members that may have loved ones that can no longer interact with their pets due to illness but get a chance to see the joy when the companion pets come to visit their relatives.
+
+When pets are kept responsibly and children supervised, there is rarely a problem and the benefits of owning a pet far outweigh any potential negatives. 
+
+(image: marion-michele-66097.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    What are families with dogs more likely
+    to do as a family activity
+  choice_1: Sit on the couch
+  choice_2: Shopping
+  choice_3: Walk the dog
+  choice_4: Go to movies
+  answer: "3"
+- 
+  question: >
+    A cat owners’ health can benefit
+    because
+  choice_1: Cats are cute
+  choice_2: Cat pics are great for facebook
+  choice_3: Cats can purr
+  choice_4: Cats are easy to look after
+  answer: "3"
+- 
+  question: >
+    When considering a pet you should
+    consider?
+  choice_1: Age of you children
+  choice_2: Type of pet
+  choice_3: Time available for pet
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    When young children are interacting with
+    pets there should be?
+  choice_1: No adult supervision
+  choice_2: Occasional adult supervision
+  choice_3: Constant adult supervision
+  choice_4: A teenager in charge
+  answer: "3"
+- 
+  question: >
+    Injuries cause from dog bites and
+    scratches should be ?
+  choice_1: Treated with antiseptic only
+  choice_2: Put a band aid on it
+  choice_3: Seen to by a medical professional
+  choice_4: Put an ice pack
+  answer: "3"
+- 
+  question: Pets can assist in the following?
+  choice_1: Reduced Stress in individuals
+  choice_2: 'Increased self- esteem in children'
+  choice_3: Empathic behaviours
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    How does a dog communicate unhappy
+    feelings?
+  choice_1: Wag his tail and body
+  choice_2: Roll on his tummy
+  choice_3: Bark, grow or nip
+  choice_4: Eat all his dinner
+  answer: "3"
+- 
+  question: Pets can aid to improve a childs?
+  choice_1: Nurturing skills
+  choice_2: Social Skills
+  choice_3: Empathetic abilities
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: 'Children with well-developed attachment and empathy skills:'
+  choice_1: Behave better towards people and animals
+  choice_2: Excel academically
+  choice_3: Are great athletes
+  choice_4: Own a lot of pets
+  answer: "1"
+- 
+  question: >
+    Researched suggests there is increased
+    ___________in children and adolescents
+    that have a dog?
+  choice_1: Knowledge
+  choice_2: Intellect
+  choice_3: Self-esteem
+  choice_4: Kindness
+  answer: "3"

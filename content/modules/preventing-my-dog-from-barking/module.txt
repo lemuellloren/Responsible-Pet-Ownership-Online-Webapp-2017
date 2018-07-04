@@ -1,0 +1,104 @@
+Title: Preventing My Dog from Barking
+
+----
+
+Text: 
+
+Nuisance barking is common when families are away from the home at work, school etc. Your dog doesn’t want to stay behind and if it has no entertainment it may easily become upset, bored, lonely or frustrated often leading to barking, whining or howling for long periods of time. Barking dogs can be avoided by making sure we care for our pets and satisfy their needs - even while we're away from home.  
+
+To avoid your dog becoming a nuisance barker you can try preventative measures such as;
+ - Activity Toys – Some toys can store and dispense treats or your dog’s daily allowance of dry food. Your dog should need to work to get the food rewards, providing your dog with mental stimulation whilst you are away.
+ - Meaty Bones – Most dogs love to gnaw on a meaty bone. This can keep your dog occupied for hours - make sure bones are a substantial size and cannot just be swallowed if dog is left unsupervised.
+ - Treasure Hunt - Feed your dog its breakfast - preferably dry food - by scattering it all over the yard. This becomes a 'doggy treasure hunt', and provides entertainment and hours of fun for your dog!
+ - Exercise your dog - Take your dog for a walk before you leave for work, as a tired dog is a happy dog.
+ - Citronella Collars - Can be effective in preventing barking and are endorsed by the RSPCA. Every time the dog barks the citronella is released from the collar. Dogs find the smell most unpleasant, and will often learn not to bark whilst the collar is on.
+ - Remove Direct Line of Sight – block the view of other animals and children, as these may provoke the dog to bark.
+ - Provide Noise Insulation For the kennel 
+ - Company – Some dogs feel the need for company: a cat, another dog or a radio left on may help a lonely dog. You need to be sure loneliness is the problem though as dogs mimic each other's behaviours, and you don’t want two noisy dogs! 
+
+(image: 20171012_090653.jpg)
+
+Quiet, content, happy dogs improve the comfort of our community.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: Nuisance barking is most common...
+  choice_1: >
+    while owners are taking their dogs for a
+    walk.
+  choice_2: at night, while owners are at home.
+  choice_3: >
+    while owners are away at work/school,
+    and the dog is left alone.
+  choice_4: none of the above.
+  answer: "3"
+- 
+  question: >
+    A dog may bark, whine and howl for long
+    periods of time when alone in the home,
+    because...
+  choice_1: it feels lonely.
+  choice_2: it feels bored.
+  choice_3: it feels upset and frustrated.
+  choice_4: all of the above
+  answer: "4"
+- 
+  question: Citronella collars...
+  choice_1: >
+    are ineffective and cruel, and should
+    not be used.
+  choice_2: >
+    are effective, and endorsed by the
+    RSPCA.
+  choice_3: >
+    are distressing to the dog, and
+    prohibited in NSW.
+  choice_4: >
+    should only be used under the
+    supervision of a qualified Dog Trainer.
+  answer: "2"
+- 
+  question: "Hiding your dog's dry-food breakfast all over the yard..."
+  choice_1: "is called a 'doggy treasure hunt', and can provide hours of stimulating fun, reducing barking."
+  choice_2: >
+    is a practice that can prompt the dog to
+    become frustrated and bark more.
+  choice_3: "is called 'dog baiting', considered cruel and unhygienic, and has no effect on barking."
+  choice_4: >
+    is a dangerous practice that can
+    increase barking, and teach your dog to
+    dig holes.
+  answer: "1"
+- 
+  question: >
+    If a dog is barking because they are
+    feeling lonely...
+  choice_1: >
+    the company of another dog, or a cat,
+    could help.
+  choice_2: >
+    a radio or television left on might
+    help.
+  choice_3: all of the above
+  choice_4: none of the above
+  answer: "3"
+- 
+  question: "We can reduce a dog's barking by..."
+  choice_1: >
+    using activity toys that make the dog
+    work for food, or meaty bones, as these
+    can keep the dog entertained for hours.
+  choice_2: 'going for walks, play and exercise: a tired dog is a happy dog, and a dog less likely to bark.'
+  choice_3: >
+    blocking the line-of-sight to passers-by
+    and other animals, when those are the
+    cause of the barking.
+  choice_4: all of the above
+  answer: "4"

@@ -1,0 +1,86 @@
+Title: Is My Dog Barking Too Much?
+
+----
+
+Text: 
+
+## What Is Nuisance Barking?
+Nuisance barking may be described as barking which *persistently* occurs or continues to such a degree or extent that it unreasonably *interferes with the peace, comfort or convenience* of any person in any premises.
+
+## Is My Dog Barking Too Much?
+You may not realise your dog is barking excessively, especially if you are away from home at the time. A neighbour may approach you regarding the noise your dog is exhibiting and the first step is to remain calm and try to see things from their point of view.  Ask your neighbour exactly when the dog is barking and the duration. Think about setting up a web cam or video camera at these times to help determine what your dog is doing when you are not home. Alternatively you could try a ‘set -up” by pretending you are leaving for the day, and then wait outside the door to see if your dog starts barking. 
+
+(image: 20161229_194815.jpg)
+
+If you can work out the reasons why your dog is barking, it will then be easier to find a way to stop the problem.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: "Barking can be considered 'nuisance barking'..."
+  choice_1: 'all the time: we should never have to hear a dog barking anywhere.'
+  choice_2: >
+    if I can hear the barking anytime while
+    I am in my own home.
+  choice_3: >
+    if the barking can be heard on any
+    public premises or thoroughfare only.
+  choice_4: >
+    only if it is so persistent that it
+    disturbs the peace or comfort of others.
+  answer: "4"
+- 
+  question: "Barking becomes 'nuisance barking'..."
+  choice_1: >
+    if it is persistent to the point it
+    interferes with the peace of others.
+  choice_2: >
+    if it is persistent to the point it
+    interferes with the comfort of others.
+  choice_3: >
+    if it is persistent to the point it
+    interferes with the convenience of
+    others.
+  choice_4: all of the above
+  answer: "4"
+- 
+  question: "If you suspect your dog to be barking excessively when you're not home..."
+  choice_1: >
+    you should do nothing, until you receive
+    a complaint from a neighbour.
+  choice_2: "you can try asking neighbours, setting up a webcam, 'pretending to leave' or other techniques to find out."
+  choice_3: you should take your dog to the Vet.
+  choice_4: you should call the RSPCA immediately.
+  answer: "2"
+- 
+  question: >
+    If a neighbour approaches you, and tells
+    you that your dog has been barking
+    excessively...
+  choice_1: 'you should not do anything - your dog is allowed to bark in your own home.'
+  choice_2: >
+    you should call Council immediately to
+    avoid nuisance fines.
+  choice_3: >
+    you should try to find out how often and
+    for how long your dog has been heard
+    barking.
+  choice_4: You should call the RSPCA immediately.
+  answer: "3"
+- 
+  question: >
+    If you find out your dog has been
+    barking excessively...
+  choice_1: you should call the RSPCA immediately.
+  choice_2: you should call Council immediately.
+  choice_3: >
+    you should take the dog to the Vet
+    immediately.
+  choice_4: 'you can try to work out the reason - it will be easier for you to fix the issue if you know the cause.'
+  answer: "4"

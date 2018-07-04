@@ -1,0 +1,68 @@
+title: Module
+icon: file-text
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: true
+pages: false
+files:
+  sanitize: true
+  sortable: true
+  size: 8000000
+  width: 4000
+  height: 3000
+fields:
+  title:
+    label: Module Title
+    type: title
+    required: true
+  text:
+    label: Module Content
+    type: textarea
+
+  info:
+    label: Info
+    type: info
+    text: >
+      Ideally, you should enter at least 10 questions per module, in order to guarantee 
+      a good mixture of questions and sufficient randomness in the Course test.
+  
+  ###questions
+  questions:
+    label: Test Questions
+    type: structure
+    modalsize: large
+    entry: >
+      Question - {{question}}
+    fields: 
+
+      question:
+        label: Question
+        type: textarea
+        required: true
+      choice_1: 
+        label: Answer 1
+        type: text
+        required: true
+      choice_2:
+        label: Answer 2
+        type: text
+        required: true
+      choice_3:
+        label: Answer 3
+        type: text
+        required: true
+      choice_4:
+        label: Answer 4
+        type: text
+        required: true
+      answer:
+        label: Correct Answer
+        type: radio
+        options:
+          1 : 1
+          2 : 2
+          3 : 3
+          4 : 4

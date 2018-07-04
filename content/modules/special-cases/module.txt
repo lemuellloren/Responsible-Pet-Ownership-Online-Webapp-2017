@@ -1,0 +1,140 @@
+Title: Registration Special Cases
+
+----
+
+Text: 
+
+## Exemptions for cats and dogs in NSW 
+
+If you own a cat born before 1 July 1999 and ownership has not changed, a working dog used for tending stock on a rural property or a greyhound currently registered under the Greyhound Racing Act 2009, you do not need to have it microchipped or registered with your local council. However, we recommend you have your cat or dog microchipped for its protection.
+
+
+If action has been taken against you regarding the behaviour of your cat or dog under the Companion Animals Act 1998, any applicable exemption is lost and your cat or dog must be microchipped and registered.
+
+This means a nuisance cat or dog, a restricted dog and a declared dangerous or menacing dog, including a working dog that has been declared a dangerous dog, must be microchipped and registered.
+
+Any cat or dog not otherwise required to be microchipped or registered that is taken into the custody of a council pound or animal welfare organisation must be microchipped and registered before being returned to its owner (even if it is less than six months old).
+
+## What should you do if your pet's microchip number is not on the NSW Companion Animal Register? 
+
+If you have not received your certificate or you have concerns about the accuracy of the information on the NSW Companion Animals Register, you should take any documentation you have to your local council.
+
+If you have had your cat or dog microchipped in NSW, the Authorised Identifier must either enter the information onto the NSW Companion Animals Register and issue you a Certificate of Identification, or send the information to your local council for data entry within three days of implanting the microchip.
+
+The local council must enter the information onto the NSW Companion Animal Register within seven days of receipt of the information and issue you a Certificate of Identification. 
+
+## Moving from another state/territory to NSW? 
+
+If you are moving to NSW and are going to be here for 3 months or more, you must have your cat or dog microchipped (if this has not already been done), entered on the NSW Companion Animals Register and lifetime registered with your local council. This must occur within 3 months of moving to NSW.
+
+If your cat or dog was microchipped outside NSW or before 1 July 1999 (when the Companion Animals Act 1998 came into effect), you will need to provide proof of microchipping to your NSW local council. You will need to present a Verification of Existing Microchip (M1) Form completed and signed by a Vet or other Authorised Identifier and a completed Permanent Identification (P1A) Form.
+
+Registration in another state or territory cannot be transferred to NSW.
+
+Please note: privately operated national microchip databases are not linked to the NSW Companion Animals Register, so even if you’ve listed your pet on one of these databases, you will still need to register your Pet through the NSW Companion Animals Register, which is the NSW State Government database used to record registration information for cats and dogs that reside in NSW.
+
+You should also contact the operators of any databases on which your cat or dog is listed to update your contact details on your cat or dog's microchip record.
+
+
+## Moving to Australia? 
+
+If you are moving to NSW from overseas, you must identify and register your cat or dog with your local council within three months of your arrival.
+
+Cats and dogs being imported to Australia must meet Australian Quarantine and Inspection Service (AQIS) import conditions, including the requirement for microchipping before import to Australia. This is to minimise the risk of exotic diseases being introduced into Australia.
+Australia is free from many animal-related diseases found in other parts of the world.
+
+For more information on microchipping and registration requirements in NSW, contact your local council on your arrival in NSW.
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    What do you do if your dog or cats
+    microchip number is not on the register?
+  choice_1: Forget about it, it’s not important
+  choice_2: >
+    Go into your local council with the
+    paperwork to have the number entered
+  choice_3: Call your council to enquire how do this
+  choice_4: >
+    Go to a vet to have your dog or cat
+    scanned for a microchip
+  answer: "2"
+- 
+  question: Who is exempt from registration?
+  choice_1: >
+    Greyhounds registered with Greyhounds
+    NSW
+  choice_2: Assistance dogs
+  choice_3: Working dogs
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    How long does it take for Council to
+    enter your pets microchip number into
+    the register?
+  choice_1: 3 months
+  choice_2: 1 month
+  choice_3: 1 week
+  choice_4: 1 day
+  answer: "3"
+- 
+  question: 'If you change your contact details  for your pets registration, do you have to notify Council?'
+  choice_1: "Only if I'm moving interstate"
+  choice_2: >
+    Yes, I must notify in person and pay a
+    fee
+  choice_3: >
+    Yes, I must notify Council within 14
+    days
+  choice_4: "No, I don't need to tell Council"
+  answer: "3"
+- 
+  question: 'Cats & Dogs coming into Australia....'
+  choice_1: >
+    Must be microchipped before being
+    imported
+  choice_2: >
+    Should be registered within the first 6
+    months after arrival
+  choice_3: "Should be registered within the first month, but don't have be microchipped"
+  choice_4: Should be registered before arrival
+  answer: "1"
+- 
+  question: Restricted or Dangerous dogs....
+  choice_1: "Must be registered but don't have be microchipped"
+  choice_2: Must be microchipped only
+  choice_3: >
+    Must be both, microchipped and
+    registered
+  choice_4: "Don't have do either, exemptions apply"
+  answer: "3"
+- 
+  question: >
+    If Council picks up an animal that is
+    not microchipped or registered...
+  choice_1: >
+    Must be microchipped before being
+    returned to owner
+  choice_2: >
+    Must be microchipped and registered
+    before being returned to owner
+  choice_3: >
+    Will be charged double registration fee
+    when the owner registers the animal
+  choice_4: None of the above
+  answer: "2"
+- 
+  question: The name of the Register...
+  choice_1: Animal Register
+  choice_2: NSW Animal register
+  choice_3: 'Dogs & Cats list'
+  choice_4: NSW Companion Animal Register
+  answer: "4"

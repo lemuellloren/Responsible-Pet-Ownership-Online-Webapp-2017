@@ -1,0 +1,33 @@
+@import 'base';
+// STYLES
+
+section#forgotpass{
+	padding: 100px 20px 50px 20px;
+	@media (min-width: 600px){
+		padding: 150px 20px 50px 20px;
+	}
+	text-align: center;
+	h1{
+		text-align: center;
+		color: $warmOrange;
+	}
+	form{
+		width: 100%;
+		@media (min-width: 480px){
+			width: 400px;
+		}
+		margin: 0 auto;
+		text-align: center;
+		.form-group {
+			@include field-style();
+		}
+		input {
+			border-radius: 3px;
+			@include softtransition;
+			height: 3rem;
+			&:hover {
+				border: 1px solid $mainColor;
+			}
+		}
+	}
+}

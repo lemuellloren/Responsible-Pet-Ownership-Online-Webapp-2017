@@ -1,0 +1,176 @@
+title: Home
+icon: home
+
+options:
+  status: false
+  delete: false
+
+pages: false
+
+files:
+  sanitize: true
+  sortable: true
+  size: 8000000
+  width: 4000
+  height: 3000
+
+fields:
+
+  # PAGE METADATA TAB
+  # =================================================
+  tab1:
+    label: Page Metadata
+    type: tabs
+
+  seo: 
+    type: seo
+    help: >
+      Click the title to change the page title. Click the description to change the page description.
+
+  mainImage:
+    label: Main Image 
+    type: image
+    required: true
+    help: >
+      Image used by search engines and social media sites when previewing this page.
+      Ideal image size is 1200(wide)x630(tall)pixels - larger images will be resized and cropped automatically.
+
+  keywords:
+    label: Keywords
+    type:  tags
+
+  # HERO BANNER TAB
+  # =================================================
+  tab2:
+    label: Hero Banner
+    type: tabs
+
+  header_text:
+    label: Heading Text
+    type: text
+    required: true
+
+  sub_text: 
+    label: Sub-Heading Text
+    type: text
+    required: true
+
+  btntxt_viewcourse:
+    label: View Courses Button Text
+    type: text
+    width: 1/2
+    placeholder: View Courses
+    help: Leave empty to hide button from the page.
+
+  btntxt_enroll:
+    label: Enrol Button Text
+    type: text
+    placeholder: Enrol Now
+    width: 1/2
+    help: Leave empty to hide button from the page.
+    
+  # PROMO TAB
+  # =================================================
+  tab3: 
+    label: Promo 
+    type: tabs
+  promo_title:
+    label: Promo Section Title
+    type: text
+    required: true
+    placeholder: Promo
+  promo_items: 
+    type: structure
+    modalsize: large
+    entry: >
+       {{promo_title}} <br>
+       {{promo_description}}
+    fields:
+      promo_title: 
+        label: Promotion Title
+        type: text
+        placeholder: Free Microchipping Day! 
+        required: true
+      promo_inset:
+        label: Circle Inset Word
+        type: text
+        placeholder: Promo
+        help: >
+          Short word displayed inside circle in your promo section - leave empty to hide from page.
+      promo_description:
+        label: Promotion Body
+        type: textarea
+        help: Enter body text of your promotion.
+        required: true
+      promo_image: 
+        label: Promotion Image
+        type: image
+        required: true
+        help: >
+            Image should be 640(w)x480(h) pixels. You can upload larger images, but they will be 
+            automatically resized down and cropped, as needed.
+      btntxt_learnmore:
+        label: 'Learn More' Button Text
+        type: text
+        placeholder: Learn More
+        help: >
+          Leave empty to hide button from the page. 
+        width: 1/2
+
+      btntxt_learnmore_url:
+        label: 'Learn More' URL
+        type: url
+        placeholder: http://externalsite.com.au
+        help: >
+          Leave empty to hide button from the page. 
+        width: 1/2
+
+      btntxt_download:
+        label: 'Download' Button Text
+        type: text
+        placeholder: Download
+        help: >
+          Leave empty to hide button from the page. 
+        width: 1/2
+
+      downloadable_file:
+        label: Select File to Download
+        type: select 
+        width: 1/2
+        options: query
+        help: >
+          Leave selection empty to hide button from the page.
+        query:
+          page: home
+          fetch: files
+          value: '{{filename}}'
+          text: '{{filename}}'
+          flip: true
+  
+  # COURSE TAB
+  # =================================================
+  tab21: 
+    label: Course 
+    type: tabs
+
+  course_title_home: 
+    label: Course Section Title
+    type: text
+    placeholder: Our Courses
+    required: true
+    help: >
+      Place a title for 'Course section' in Home page
+
+  viewCourse_button_text:
+    label: View Course Button Text
+    type: text
+    placeholder: View Course
+    width: 1/2
+    required: true 
+
+  enrollNow_button_text: 
+    label: Enrol Button Text
+    type: text
+    placeholder: Enrol Now
+    width: 1/2
+    required: true

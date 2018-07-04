@@ -1,0 +1,100 @@
+Title: Barking Dogs
+
+----
+
+Text: 
+
+(image: screen-shot-2018-01-12-at-1.26.53-pm.png)
+## Why do dogs bark?
+Barking is a natural way dogs vocalise to communicate their feelings. Barking may signal a warning, danger, play, excitement, panic, fear etc. It is normal for all dogs to bark and responsible dog owners need to ensure barking is kept to a minimum and the dog is barking only at appropriate times.      
+
+## What is nuisance barking?
+Nuisance barking may be described as barking which persistently occurs or continues to such a degree or extent that it unreasonably interferes with the peace, comfort or convenience of any person in any other premises.
+
+(image: 20161229_194815.jpg)
+
+## Is your dog barking too much?
+You may not realise your dog is barking excessively, especially if you are away from home at the time. A neighbour may approach you regarding the noise your dog is exhibiting and the first step is to remain calm and try to see things from their point of view.  Ask your neighbour exactly when the dog is barking and the duration. Think about setting up a web cam or video camera at these times to help determine what your dog is doing when you are not home. Alternatively you could try a ‘set -up” by pretending you are leaving for the day and you wait outside the door to see if your dog starts barking. 
+If you can work out the reasons why your dog is barking, it will then be easier to find a way to stop the problem.
+
+## Preventing your dog from Barking!
+Barking dogs can be avoided by making sure we care for our pets and satisfy their needs.  
+Nuisance barking is common when families are away from the home at work, school etc. Your dog doesn’t want to stay behind and if it has no entertainment it may easily become upset, bored, lonely or frustrated often leading to barking, whining or howling for long periods of time.
+To avoid your dog becoming a nuisance barker you can try preventative measures such as;
+ - Activity Toys – Some of these toys store and dispense treats or your dog’s daily allowance of dry food. Your dog needs to work to get the food rewards providing your dog with mental stimulation whilst you are away.
+ - Meaty Bones – Most dogs love to gnaw on a meaty bone. This can keep your dog occupied for hours (Make sure bones are a substantial size and can not just be swallowed if dog is left unsupervised)
+ - Treasure Hunt - Feed your dog its breakfast (preferably dry food) by scattering it all over the yard. This becomes a doggy treasure hunt and provides entertainment and hours of fun for your dog!
+ - Exercise your dog - Take your dog for a walk before you leave for work, a tired dog is a happy dog.
+ - Citronella Collars - Can be effective in preventing barking and are endorsed by the RSPCA. Every time the dog barks the citronella is released from the collar. Dogs find the smell most unpleasant and will often learn not to bark whilst the collar is on.
+ - Remove Direct Line of Sight – From other animals and children as this may provoke dog to bark.
+ - Provide Noise Insulation – For kennel 
+ - Company – Some dogs feel the need for company, a cat, another dog or a radio left on may help a lonely dog   (you need to be sure loneliness is the problem though as dogs mimic each others behaviours and you don’t want two  noisy dogs). 
+
+(image: 20171012_090653.jpg)
+
+Quiet, content, happy dogs improve the comfort of our community.
+
+## Causes of problems for barking dogs
+
+ - Boredom / Lonely Dog –Dogs left on their own for extended periods of time. 
+ - Kept on a chain or in a place to small for the dogs needs – confined to a small space can increase anxiety of the dog causing it to bark more often
+ - Unsuitable environment for the breed –  Lack of environmental enrichment toys, sand pit, bones to chew, games  or an active breed of dog in a small yard 
+ - Lack of exercise – Not taken on regular walks or doggie activities such as obedience, agility or flyball etc  
+ - Provoked deliberately or unintentionally by people or roaming dogs – Passers-by, people and  dogs walking past gates and fence lines
+ - Separation Anxiety –  dogs may suffer terrible anxiety and distress when their owner is not home 
+ - Untrained –  Little or no behaviour modification training invested into the dog 
+ - Sick - The dog could be ill.  This may be a result of blindness, hearing loss, kennel cough etc.
+ - Hungry/ Thirsty – A dog may bark to alert the owner of their basic needs (i.e food/water).  
+ - Victims of abuse – Abused/Neglected ill treated dogs - If you suspect an animal is being abused contact the RSPCA or Animal Welfare League Inspectors.
+
+(image: 20151101_124031.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: Why do dogs bark?
+  choice_1: Boredom
+  choice_2: Fear
+  choice_3: Panic
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: What is nuisance barking?
+  choice_1: Any dog that is barking
+  choice_2: Any sound a dog makes
+  choice_3: Persistant and continuous barking
+  choice_4: Play barking
+  answer: "3"
+- 
+  question: >
+    What do you do if your neighbour says
+    your dog is barking too much?
+  choice_1: Tell them to go away
+  choice_2: >
+    Listen and develop a plan to deal with
+    the barking
+  choice_3: Tell them you will monitor the barking
+  choice_4: Do nothing
+  answer: "2"
+- 
+  question: >
+    What preventative measure you can try to
+    stop your dog from nuisance barking
+  choice_1: Meaty bones
+  choice_2: Exercise you dog
+  choice_3: Remove direct line of sight
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: What causes problem barking in dogs?
+  choice_1: Boredom/Lonely
+  choice_2: Lack of exercise
+  choice_3: Separation anxiety
+  choice_4: All of the above
+  answer: "4"

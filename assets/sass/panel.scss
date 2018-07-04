@@ -1,0 +1,25 @@
+@media print, screen and (min-width: 64em) {
+	.dashboard {
+		column-count: 2;
+	}
+	#mywidget-widget {
+		//position: absolute !important;
+	    float: left !important;
+		left: 1.7% !important;
+	    width: 96.7%;
+	    text-align: center;
+	}
+	#account-widget {
+
+	} 
+}
+
+@media screen and (max-width: 63.9375em) {
+	#mywidget-widget {
+	
+	} 
+}
+
+.field-with-textarea .field-buttons{
+	background: #fff;
+}

@@ -1,0 +1,88 @@
+Title: Housing & Management of Cats
+
+----
+
+Text: 
+
+Traditionally cats have roamed the neighbourhood making themselves at home with everyone. Cat owners are now realising the benefits of keeping their cats as indoor only pets. Statistics show that indoor cats have a healthier and longer lives than their outdoor cousins.
+
+(image: smudgee-the-rescued-cat-1.jpg)
+
+Before you let your feline friend outside you need to ask yourself… 
+
+“*Is it fair to let my cat out to wander in other peoples properties? Possibly causing damage and pooping and peeing on other people’s gardens?”  “Would I allow a dog the same freedom? “How would I feel if the neighbours dog or cat came over to my place and did the same thing?” *
+
+You can give your cat the best of both worlds by providing a safe outdoor enclosure for your cat. This allows the cat to experience the outdoors but in a controlled and safe environment. 
+
+Enclosures can be as simple or as elaborate as you like. The ideal cat enclosure contains space for the cat to run around with climbing options and plenty of shade and resting places. Cat enclosures don’t have to cost a fortune – there are many companies who manufacture cat enclosures, alternatively you can get them second hand or even convert a bird aviary if you’re handy. 
+
+## Benefits of Keeping Cats Indoors are:
+
+Dogs – Many cats are killed or seriously injured in attacks by dogs.
+Cars – Cats do not have any road sense. Many cross the roads successfully but one day their luck may run out and they could get hit by a car & possibly die a slow and painful     death.
+Wildlife – Prevent your cat from hunting native wildlife. Hunting is a normal behaviour for cats and they can’t be blamed for this when humans allow them to roam uncontrolled.
+Health – Indoor cats tend to have better health than outdoor cats as they don’t get into fights with other animals, which can cause nasty abscesses and wounds, which are very painful for the cat and need to be treated by a vet.
+
+(image: zen-03.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    What are the benefits of keeping cats
+    indoors?
+  choice_1: >
+    Prevent you cat from hunting native
+    wildlife
+  choice_2: Better health for your cat
+  choice_3: Keeping your cat safe
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: 'Do cats roam to provide themselves with mental & physical exercise?'
+  choice_1: Yes, it provides good exercise
+  choice_2: Maybe, depends on the cat
+  choice_3: >
+    No, they are lazy ands sleep most of the
+    time
+  choice_4: Not sure
+  answer: "1"
+- 
+  question: >
+    Before you let your feline friend
+    outside you need to ask yourself…
+  choice_1: Should i keep my cat indoors
+  choice_2: >
+    Would my neighbours like my cat on their
+    property
+  choice_3: >
+    Would I allow a dog to have the same
+    freedom
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    Cats can be killed or seriously injured
+    in attacks by roaming dogs?
+  choice_1: No, dogs and cats get along well
+  choice_2: 'Yes, but they  have 9 lives'
+  choice_3: 'Yes'
+  choice_4: "No, cats are too quick and don't get caught"
+  answer: "3"
+- 
+  question: >
+    What are the benefits of keeping cats
+    indoors?
+  choice_1: >
+    Prevent your cat from hunting native
+    wildlife
+  choice_2: Better health for your cat
+  choice_3: Keeping your cat safe
+  choice_4: All of the above
+  answer: "4"

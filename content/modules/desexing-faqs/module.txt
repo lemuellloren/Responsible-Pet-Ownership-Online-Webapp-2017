@@ -1,0 +1,153 @@
+Title: Desexing FAQs
+
+----
+
+Text: 
+
+## What age should I desex my pet?
+Pets can be de-sexed from as young as eight weeks although your vet may advise you to wait until 3-5 months or a little longer depending on size, age and general health of your pet at the time.   
+Most pets should be desexed by six months of age. It is important to remember that cats are capable of falling pregnant from as young as 20 weeks of age (5 months). 
+
+(image: 20151007_133036.jpg)
+
+## Shouldn’t we let our female have at least one litter?
+There is no good reason to let your female dog or cat have a litter. Many stray and unwanted animals born under similar circumstances end up in pounds and shelters every year and are euthanised. Allowing your pet to breed only contributes to this community problem.
+
+## My pet is a male he can’t fall pregnant, why bother?
+The majority of dog bites are caused by male dogs who are not desexed. There are serious penalties for your dog being involved in such attacks. Section 16 of the Companion Animals Act, 1998 (The Act) defines a dog attack as; “If a dog rushes at, attacks, bites, harasses or chases any person or animal (other than vermin), whether or not any injury is caused to the person or animal.” 
+
+Section 27 of the Act states that; 
+> “the owner (or person in charge) of an attacking dog is liable for damages in respect of bodily injury to a person, damage to property of a person (including clothing) and/or veterinary bills in respect to injury (whether or not fatal) to another animal caused by a dog attacking or chasing it. “
+
+Male animals are more inclined to roam and fight if they are not desexed. They can meet many females on their travels and can father many litters in one evening – contributing to the problem of stray and unwanted animals in the pounds and shelters. Desexed male animals make better companions, as they are generally a more affectionate and loving pet.
+
+## Will my pet become overweight?
+With the right amount of exercise and correct diet your pet shouldn’t become overweight. Dogs like people, only become overweight if they eat too much and exercise too little. 
+
+(image: img_0057.jpg)
+
+## Will my pet’s personality/behaviour change if I desex?
+The female’s personality really shouldn’t change at all.  In the males most personalities will change for the better, often a less aggressive, calmer, relaxed and happy pet. The males will usually become a more loving and enjoyable companions.
+
+(image: chauncey_ginsoo_1.jpg)
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    How old should my dog or cat be before
+    getting desexed?
+  choice_1: >
+    Dogs and cats can be desexed immediately
+    after birth.
+  choice_2: >
+    They can be desexed as early as 8 weeks
+    old, but it is common to wait until they
+    are 3 to 5 months old.
+  choice_3: >
+    They can be desexed as early as 6 months
+    old, but it is usually best to wait
+    until after the first year.
+  choice_4: >
+    It is safer for the animal to wait until
+    they are at least 1 year old.
+  answer: "2"
+- 
+  question: >
+    Is it healthier to allow females to have
+    a litter before being desexed?
+  choice_1: >
+    Yes, desexing before the first litter
+    can increase the risk of cancer.
+  choice_2: >
+    No, there is no known health-related
+    reason why your pet should have a litter
+    before being desexed.
+  choice_3: >
+    Maybe, depending on the breed of the
+    animal.
+  choice_4: >
+    Maybe, depending on the size of the
+    animal, and the size of the litter.
+  answer: "2"
+- 
+  question: Male dogs that are not desexed...
+  choice_1: >
+    are no different in behaviour to desexed
+    male dogs.
+  choice_2: >
+    are no different in behaviour to desexed
+    female dogs.
+  choice_3: >
+    are less likely to attack and bite than
+    a desexed dog.
+  choice_4: >
+    are responsible for the majority of dog
+    bite attacks reported.
+  answer: "4"
+- 
+  question: >
+    Male dogs and cats that are not
+    desexed...
+  choice_1: >
+    are more inclined to be protective,
+    guard their house and stay indoors.
+  choice_2: >
+    are more inclined to roam, but less
+    inclined to fight.
+  choice_3: are more inclined to roam and fight.
+  choice_4: "don't behave any differently to desexed dogs and cats."
+  answer: "3"
+- 
+  question: Desexed male cats and dogs...
+  choice_1: >
+    make better companions, as they are
+    generally more affectionate and loving.
+  choice_2: "like to exercise less than non-desexed animals, and will usually make better 'lap' pets."
+  choice_3: >
+    prefer to sleep more than non-desexed
+    animals, and require less attention.
+  choice_4: all of the above
+  answer: "1"
+- 
+  question: >
+    Will my pet become overweight after
+    desexing?
+  choice_1: >
+    It is common for pets to put on weight
+    after desexing, but that is healthy and
+    expected.
+  choice_2: >
+    Yes, but the health benefits of desexing
+    outweigh the problems cause by weight
+    gain.
+  choice_3: >
+    No, desexed pets tend to loose weight
+    after the operation.
+  choice_4: 'No, desexing does not affect weight: pets only become overweight if they eat too much and exercise too little.'
+  answer: "4"
+- 
+  question: >
+    Does desexing affect the personality and
+    behaviour of your pet?
+  choice_1: >
+    Females should become more aggressive,
+    and males should become more loving.
+  choice_2: >
+    It should not affect the personality of
+    females, and males tend to become less
+    aggressive.
+  choice_3: >
+    It should not affect the personality of
+    males, but females tend to become more
+    aggressive.
+  choice_4: >
+    Desexing should not affect the
+    personality of the pet.
+  answer: "2"

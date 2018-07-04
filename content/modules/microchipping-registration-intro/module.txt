@@ -1,0 +1,88 @@
+Title: Microchipping & Registration Intro
+
+----
+
+Text: 
+
+## MICROCHIPPING
+A microchip is a ‘subcutaneous full duplex electronic radio transponder’. That means it sits just below the animals skin and the information it holds can be read by a scanner. Microchips are about the size of a grain of rice and are implanted between the animal’s shoulders at the back of the neck. No personal information is stored on the microchip, only the unique identification number.
+
+In NSW all cats and dogs, other than exempt cats and dogs, must be microchipped by 12 weeks of age or before being sold or given away (whichever happens first).
+
+(image: microchip-on-finger.jpg)
+
+
+## REGISTRATION
+All cats and dogs, other than exempt cats and dogs, must be registered by 6 months of age. The registration fee is a once-only payment, which covers the cat or dog for its lifetime in NSW, regardless of any changes in ownership. 
+
+We recommend you have your cat or dog desexed before registering it as discounted registration fees apply to desexed cats and dogs. Having your cat or dog desexed helps to reduce straying, fighting and aggressive and antisocial behaviour, such as spraying to mark territory. It also helps to reduce the number of unwanted pets born each year.
+
+Councils use registration fees to provide animal management services for the community. This includes ranger services, dog refuse bins, educational and other companion animal-related activities.
+
+More information is available on Penrith Council’s Animal Services webpage https://www.penrithcity.nsw.gov.au/Services/Animals/Registering-and-microchipping/#Register
+
+----
+
+Info: 
+
+----
+
+Questions: 
+
+- 
+  question: >
+    What age must you microchip your dog or
+    cat?
+  choice_1: When it is 12 weeks’ old
+  choice_2: When it is sold
+  choice_3: When you give it away
+  choice_4: All of the above
+  answer: "4"
+- 
+  question: >
+    What age must you register your dog or
+    cat?
+  choice_1: By 6 months of age
+  choice_2: When it is born
+  choice_3: After it is desexed
+  choice_4: Whenever you want
+  answer: "1"
+- 
+  question: >
+    Can you be fined for not registering
+    your dog or cat?
+  choice_1: 'Yes'
+  choice_2: 'No'
+  choice_3: Not sure
+  choice_4: Dont care
+  answer: "1"
+- 
+  question: How often do I have to register my pet?
+  choice_1: every year
+  choice_2: every 2 years
+  choice_3: "once in the pet's lifetime"
+  choice_4: never
+  answer: "3"
+- 
+  question: Where is a microchip placed in your pet?
+  choice_1: In the legs
+  choice_2: between the shoulders
+  choice_3: in the chest
+  choice_4: around its neck
+  answer: "2"
+- 
+  question: >
+    Is it cheaper to register a desexed
+    animal ?
+  choice_1: 'No'
+  choice_2: 'Yes'
+  choice_3: only if they over 5 years old
+  choice_4: only if a vet authorises it
+  answer: "2"
+- 
+  question: How does Council use registration fees?
+  choice_1: For Education activities
+  choice_2: For Ranger services
+  choice_3: For pound facilities
+  choice_4: all of the above
+  answer: "4"
